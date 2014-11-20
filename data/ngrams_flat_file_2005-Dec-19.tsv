@@ -1,0 +1,711 @@
+N-GRAM	META	MOD	DISPARAGED	MISSPELLED	COMMENT
+loss	null	null	null	null	
+pictures	null	null	null	null	
+effects	null	null	null	null	
+gall	null	null	null	null	bile
+rheumatoid	null	null	null	null	yes - modifier
+sexual	null	yes	null	null	
+strep	null	null	null	null	
+lyme	null	null	null	null	synonym for lyme disease
+sores	null	null	null	null	
+nodes	null	null	null	null	maps to node [C0577559] parent to nodule.
+klinefelter	null	null	null	null	
+herbal	null	yes	null	null	mod
+fatty	null	yes	null	null	
+parkinson's	null	null	null	null	
+polycystic	null	yes	null	null	mod
+pills	null	null	null	null	
+celiac	null	null	null	null	
+syndrom	null	null	yes	yes	
+b12	null	null	null	null	vitamin b12
+supplements	null	null	null	null	
+lab	null	null	null	null	
+broken	null	null	null	null	modifier -- we had a long discussion on this one.  We found it difficult
+alzheimer's	null	null	null	null	
+articles	yes	null	null	null	
+alzheimers	null	null	yes	null	
+parkinsons	null	null	null	null	
+parkinson	null	null	null	null	
+staph	null	null	null	null	
+bumps	null	null	null	null	
+graves	null	null	null	null	
+clots	null	null	null	null	
+infectious	null	yes	null	null	
+sexually	null	yes	null	null	
+results	yes	null	null	null	
+studies	yes	null	null	null	
+babies	null	null	null	null	
+crohns	null	null	null	null	
+lumps	null	null	null	null	
+definition	yes	null	null	null	
+atkins	null	null	null	null	
+medicines	null	null	null	null	
+bloody	null	yes	null	null	
+alzheimer	null	null	null	null	
+pains	null	null	null	null	
+ankylosing	null	yes	null	null	
+exam	null	null	null	null	
+tay-sachs	null	null	null	null	
+conditions	null	null	null	null	
+toprol	null	null	null	null	
+healthy	null	yes	null	null	
+alkaline	null	yes	null	null	
+images	yes	null	null	null	
+ehlers-danlos	null	null	null	null	
+hodgkins	null	null	null	null	
+fitness	null	null	null	null	
+desease	null	null	yes	yes	
+changes	null	null	null	null	
+nodules	null	null	null	null	
+behavioral	null	yes	null	null	
+marfan	null	null	null	null	
+numb	null	null	null	null	
+molluscum	null	null	null	null	
+not	null	yes	null	null	
+generic	null	null	null	null	
+dose	null	null	null	null	
+photos	yes	null	null	null	
+prader-willi	null	null	null	null	
+inflamation	null	null	null	null	
+panel	null	null	null	null	
+addison's	null	null	null	null	
+adams-stokes	null	null	null	null	
+ingrown	null	null	null	null	
+blockage	null	null	null	null	
+rsd	null	null	null	null	Reflex Sympathetic Dystrophy
+legionnaire	null	null	null	null	
+symtoms	null	null	yes	yes	
+illustrations	yes	null	null	null	
+raynaud's	null	null	null	null	
+tourette	null	null	null	null	
+supplement	null	null	null	null	close to dietary supplement
+rosea	null	null	null	null	
+pcos	null	null	null	null	
+crohn	null	null	null	null	
+prostrate	null	null	null	null	
+ebola	null	null	null	null	
+asperger	null	null	null	null	
+shot	null	null	null	null	ambiguous - 1) gun 2) whisky 3)injection
+autonomic	null	null	null	null	
+cure	null	null	null	null	
+kawasaki	null	null	null	null	
+bariatric	null	null	null	null	
+image	yes	null	null	null	
+diease	null	null	yes	yes	
+children's	null	null	null	null	
+meniere's	null	null	null	null	
+cushings	null	null	null	null	
+darvocet	null	null	null	null	
+wegener's	null	null	null	null	
+ssri	null	null	null	null	
+msm	null	null	null	null	
+fda	null	null	null	null	
+article	yes	null	null	null	
+hamstring	null	null	null	null	
+hepatitus	null	null	null	null	
+bump	null	null	null	null	
+myofascial	null	null	null	null	
+shots	null	null	null	null	ambiguous - 1) gun 2) whisky 3)injection
+symptons	null	null	yes	yes	
+cholestrol	null	null	yes	yes	
+kids	null	null	null	null	
+photo	yes	null	null	null	
+sed	null	null	null	null	ambiguous - 1) sedimentation rate 2) spondyloepiphyseal dyslpasia [C0038015]
+patches	null	null	null	null	ambiguous 1) medical device 2) finding or symptom
+excess	null	yes	null	null	
+vasovagal	null	null	null	null	
+watson	null	null	null	null	ambiguous 1) name of a pharmaceutical company 2) watson's syndrome [C0553586]
+sphincter	null	null	null	null	
+meds	null	null	null	null	
+guillain-barre	null	null	null	null	
+treating	null	null	null	null	should map to the same concept that the words "treat" and "treatment" map to.
+trazadone	null	null	yes	yes	
+osgood	null	null	null	null	
+illustration	yes	null	null	null	
+bi-polar	null	null	null	null	
+coxsackie	null	null	null	null	
+hashimoto	null	null	null	null	
+stds	null	null	null	null	
+b-12	null	null	null	null	
+dash	null	null	null	null	Dietary Approaches to Stop Hypertension
+sindrome	null	null	yes	yes	
+rdw	null	null	null	null	Red blood cell Distribution Width [C1304746]
+cesarean	null	null	null	null	
+aneurism	null	null	null	null	
+epstein-barr	null	null	null	null	
+pregnacy	null	null	null	null	
+protien	null	null	yes	yes	
+huntington	null	null	null	null	
+tab	null	null	null	null	tablet [C0039225]
+vagal	null	null	null	null	C0042276
+nih	null	null	null	null	
+rehab	null	null	null	null	
+echo	null	null	null	null	ambiguous 1) ultasonography  [C0041618]  2) echoviruses [C0013534]
+palsey	null	null	null	yes	
+sydrome	null	null	yes	yes	
+tonsilitis	null	null	null	null	
+tutorials	yes	null	null	null	
+bowels	null	null	null	null	
+older	null	yes	null	null	
+diabetics	null	null	null	null	
+asprin	null	null	yes	yes	
+std's	null	null	null	null	
+men's	null	null	null	null	male gender [C0024554]
+sjogrens	null	null	null	null	
+seniors	null	null	null	null	
+pregancy	null	null	yes	yes	
+mylan	null	null	null	null	
+lowering	null	yes	null	null	
+colds	null	null	null	null	
+hepititis	null	null	yes	yes	
+chrones	null	null	null	null	
+diabetis	null	null	null	null	
+senior	null	null	null	null	
+topomax	null	null	null	null	
+chrons	null	null	null	null	
+addison	null	null	null	null	
+xenadrine	null	null	null	null	
+pagets	null	null	null	null	
+sjogren	null	null	null	null	
+chron's	null	null	null	null	
+hemorroids	null	null	null	null	
+tourettes	null	null	null	null	
+excema	null	null	null	null	
+syphillis	null	null	null	null	
+hemroids	null	null	null	null	
+navel	null	null	null	null	
+paget	null	null	null	null	
+leptoprin	null	null	null	null	
+hypertention	null	null	null	null	
+migrane	null	null	null	null	
+diabeties	null	null	null	null	
+tounge	null	null	null	null	
+herpies	null	null	null	null	
+catherization	null	null	null	null	
+wegeners	null	null	null	null	
+underarm	null	null	null	null	
+steriods	null	null	null	null	
+crones	null	null	null	null	
+lukemia	null	null	null	null	
+syndrone	null	null	null	null	
+mpv	null	null	null	null	
+lupis	null	null	null	null	
+detox	null	null	null	null	
+tetnus	null	null	null	null	
+menigitis	null	null	null	null	
+menstration	null	null	null	null	
+menapause	null	null	null	null	
+adema	null	null	null	null	
+meniere	null	null	null	null	
+cortizone	null	null	null	null	
+cholesteral	null	null	null	null	
+coffin	null	null	null	null	
+pnemonia	null	null	null	null	
+diptheria	null	null	null	null	
+ecoli	null	null	null	null	
+viox	null	null	null	null	
+displasia	null	null	null	null	
+pnuemonia	null	null	null	null	
+nosebleeds	null	null	null	null	
+osteophytes	null	null	null	null	
+potasium	null	null	null	null	
+vitamine	null	null	null	null	
+hemmoroids	null	null	null	null	
+menengitis	null	null	null	null	
+lap	null	null	null	null	
+anti-depressants	null	null	null	null	
+hepatits	null	null	null	null	
+leukodystrophies	null	null	null	null	
+obsessive-compulsive	null	null	null	null	
+post-traumatic	null	yes	null	null	mod
+c-diff	null	null	null	null	synonym for c difficile
+q-10	null	null	null	null	a synonym with coenzyme Q10
+arnold-chiari	null	null	null	null	
+posttraumatic	null	null	yes	yes	
+guillian-barre	null	null	null	null	
+post-op	null	null	null	null	
+over-the-counter	null	null	null	null	
+wolff-parkinson-white	null	null	null	null	
+auto-immune	null	yes	null	null	mod
+evidence-based	null	yes	null	null	mod
+c-difficile	null	null	null	null	
+c.difficile	null	null	null	null	
+guillan-barre	null	null	null	null	
+c.diff	null	null	null	null	synonym for c difficile
+easy-to-read	yes	null	null	null	
+fragile-x	null	null	null	null	
+low-carb	null	yes	null	null	mod
+co-q-10	null	null	null	null	a synonym with coenzyme Q10
+c.diff.	null	null	null	null	synonym for c difficile
+molluscum-contagiosum	null	null	null	null	
+west nile	null	null	null	null	
+fungal infections	null	null	null	null	
+staphylococcal aureus	null	null	null	null	
+rectal disorders	null	null	null	null	
+coral calcium	null	null	null	null	
+bypass surgery	null	null	null	null	This is a higher level concept which includes cardiac and gastric bypass surgery.  Mostly it will refer to cardiac, though, we think.
+yeast infections	null	null	null	null	
+systemic lupus	null	null	null	null	
+obsessive compulsive	null	null	null	null	
+fragile x	null	null	null	null	
+epstein barr	null	null	null	null	
+degenerative disc	null	null	null	null	
+ring worm	null	null	null	null	
+post traumatic	null	yes	null	null	mod
+cancer treatment	null	null	null	null	
+skin rashes	null	null	null	null	
+lab tests	null	null	null	null	
+sed rate	null	null	null	null	
+lab values	null	null	null	null	
+bariatric surgery	null	null	null	null	
+childhood obesity	null	null	null	null	
+red spots	null	null	null	null	
+b12 deficiency	null	null	null	null	
+cancer symptoms	null	null	null	null	
+nail fungus	null	null	null	null	
+tay sachs	null	null	null	null	
+guillain barre	null	null	null	null	
+over counter	null	yes	yes	null	mod
+flax seed	null	null	null	null	
+drug information	null	null	null	null	
+brown recluse	null	null	null	null	
+carpel tunnel	null	null	null	null	
+nasal passages	null	null	null	null	
+diet pills	null	null	null	null	
+lymph glands	null	null	null	null	
+staff infection	null	null	null	null	
+viral infections	null	null	null	null	
+b 12	null	null	null	null	
+female reproductive	null	yes	null	null	mod
+dash diet	null	null	null	null	
+high protein	null	yes	null	null	mod
+upper gi	null	null	null	null	
+too much	null	null	null	null	mod (excessive, or abnormally high)
+pain medication	null	null	null	null	
+lichen sclerosis	null	null	null	null	
+drug induced	null	yes	null	null	mod
+sun poisoning	null	null	null	null	
+degenerative disk	null	null	null	null	
+bi polar	null	null	null	null	
+disk disease	null	null	null	null	
+arnold chiari	null	null	null	null	
+auto immune	null	yes	null	null	mod
+skin conditions	null	null	null	null	
+blood presure	null	null	yes	yes	
+laboratory tests	null	null	null	null	
+belly button	null	null	null	null	
+after surgery	null	null	null	null	mod (post-op)
+blood types	null	null	null	null	
+bladder infections	null	null	null	null	
+journal articles	yes	null	null	null	
+premature babies	null	null	null	null	
+skin infections	null	null	null	null	
+side affects	null	null	yes	yes	
+fifths disease	null	null	null	null	
+hep c	null	null	null	null	
+von willebrand	null	null	yes	null	
+skin lesions	null	null	null	null	
+bee stings	null	null	null	null	
+red bumps	null	null	null	null	
+chron's disease	null	null	yes	yes	
+sexual health	null	null	null	null	
+bulging disc	null	null	null	null	
+lab results	null	null	null	null	
+sleeping pills	null	null	null	null	
+shoulder injuries	null	null	null	null	
+male reproductive	null	yes	null	null	mod
+guillian barre	null	null	null	null	
+upper leg	null	null	null	null	
+research articles	yes	null	null	null	
+evidence based	null	yes	null	null	mod
+heart problems	null	null	null	null	
+mayo clinic	null	null	null	null	
+prostrate cancer	null	null	null	null	
+atrial fibrilation	null	null	null	null	
+bug bites	null	null	null	null	
+pagets disease	null	null	null	null	
+internal bleeding	null	null	null	null	
+liver cysts	null	null	null	null	
+weight chart	null	null	null	null	
+respiratory diseases	null	null	null	null	
+blood work	null	null	null	null	
+eye problems	null	null	null	null	
+toenail fungus	null	null	null	null	
+lime disease	null	null	null	null	
+pregnancy symptoms	null	null	null	null	
+disc herniation	null	null	null	null	
+vaginal infections	null	null	null	null	
+food pyramid	null	null	null	null	
+hip dysplasia	null	null	null	null	
+genetic diseases	null	null	null	null	
+staph infections	null	null	null	null	
+pub med	yes	null	null	null	
+weight training	null	null	null	null	
+foot problems	null	null	null	null	
+chrones disease	null	null	yes	yes	
+hepatitus c	null	null	null	null	
+heart palpitations	null	null	null	null	
+dark circles	null	null	null	null	
+pain killers	null	null	null	null	
+calcium supplements	null	null	null	null	
+tick bites	null	null	null	null	
+pain medications	null	null	null	null	
+blood thinners	null	null	null	null	
+pap smears	null	null	null	null	
+hiv aids	null	null	null	null	
+cushings disease	null	null	null	null	
+muscle relaxers	null	null	null	null	
+skin problems	null	null	null	null	
+cholesterol levels	null	null	null	null	
+post op	null	null	null	null	
+men's health	null	null	null	null	
+under arm	null	null	null	null	armpit
+leaky gut	null	null	null	null	
+ultra sound	null	null	null	null	
+fifth's disease	null	null	null	null	
+potassium levels	null	null	null	null	
+medical terminology	yes	null	null	null	
+eye twitching	null	null	null	null	
+urinary track	null	null	null	null	
+finger nails	null	null	null	null	
+womens health	null	null	yes	yes	
+central line	null	null	null	null	as in intravenous
+sinus infections	null	null	null	null	
+glucose levels	null	null	null	null	
+factor 5	null	null	null	null	
+hiv symptoms	null	null	null	null	
+broken ribs	null	null	null	null	
+medline plus	yes	null	null	null	
+chrons disease	null	null	yes	yes	
+diabetes diet	null	null	null	null	
+breast lumps	null	null	null	null	
+herbal supplements	null	null	null	null	
+eye lid	null	null	null	null	
+q 10	null	null	null	null	a synonym with coenzyme Q10
+nursing journals	yes	null	null	null	
+nursing shortage	null	null	null	null	
+bloody nose	null	null	null	null	
+neck glands	null	null	null	null	
+kidney cysts	null	null	null	null	
+bloody stools	null	null	null	null	
+uterine polyps	null	null	null	null	
+after sex	null	null	null	null	should be linked with post coital -- also, it is a mod
+swollen neck	null	null	null	null	
+peg tube	null	null	null	null	
+broken toe	null	null	null	null	
+herpes virus	null	null	null	null	
+iron supplements	null	null	null	null	
+kidney problems	null	null	null	null	
+back problems	null	null	null	null	
+ginko biloba	null	null	null	null	
+coffin birth	null	null	null	null	
+white bumps	null	null	null	null	milia or baby acne
+diabetes symptoms	null	null	null	null	
+progesterone cream	null	null	null	null	
+cancer patients	null	null	null	null	
+strep b	null	null	null	null	group b strep
+child obesity	null	null	null	null	
+underactive thyroid	null	null	null	null	
+stomach pains	null	null	null	null	
+stomach acid	null	null	null	null	
+acid reflex	null	null	null	null	
+siatic nerve	null	null	yes	yes	
+cancer treatments	null	null	null	null	
+low carb	null	yes	null	null	mod
+contraceptive pill	null	null	null	null	
+hepititis c	null	null	yes	yes	
+growth chart	null	null	null	null	
+tb test	null	null	null	null	
+liver problems	null	null	null	null	
+hand washing	null	null	null	null	
+tail bone	null	null	null	null	
+c diff	null	null	null	null	synonym for c difficile
+vericose veins	null	null	yes	yes	
+psa test	null	null	null	null	
+anti depressants	null	null	null	null	
+bleeding disorders	null	null	null	null	
+cancer drugs	null	null	null	null	
+health problems	null	null	null	null	
+herbal remedies	null	null	null	null	
+heart murmer	null	null	null	null	
+chemical weapons	null	null	null	null	
+crones disease	null	null	null	null	
+bulging disk	null	null	null	null	
+lasik surgery	null	null	null	null	
+symptoms pregnancy	null	null	yes	null	disparaged on the basis of word order
+post surgery	null	null	null	null	
+vaginal warts	null	null	null	null	
+c. difficile	null	null	null	null	
+arm pit	null	null	null	null	C0004454
+von willebrand's	null	null	yes	null	
+post-traumatic stress	null	null	null	null	
+vaginal cysts	null	null	null	null	
+chrone's disease	null	null	yes	yes	
+von willebrands	null	null	yes	null	
+gillian barre	null	null	null	null	
+mens health	null	null	yes	yes	
+guillan barre	null	null	null	null	
+post surgical	null	null	null	null	
+c difficile	null	null	null	null	
+coenzyme q-10	null	null	null	null	a synonym with coenzyme Q10
+gall blader	null	null	yes	yes	
+heart desease	null	null	yes	yes	
+factor five	null	null	null	null	
+aids hiv	null	null	null	null	
+hiv virus	null	null	null	null	
+bulging discs	null	null	null	null	
+vaginal birth	null	null	null	null	
+heart diease	null	null	yes	yes	
+bulging disks	null	null	null	null	
+factor 8	null	null	null	null	
+c. diff	null	null	null	null	synonym for c difficile
+guillian-barre syndrome	null	null	null	null	
+vaginal bacteria	null	null	null	null	
+lyme desease	null	null	yes	yes	
+liver desease	null	null	yes	yes	
+lyme diease	null	null	yes	yes	
+post operation	null	null	null	null	
+diet diabetes	null	null	yes	null	
+co q-10	null	null	null	null	a synonym with coenzyme Q10
+factor 11	null	null	null	null	
+disc bulging	null	null	yes	null	
+factor 1	null	null	null	null	
+molluscum contagiousum	null	null	null	yes	
+factor 7	null	null	null	null	
+von willibrands	null	null	yes	null	
+factor 2	null	null	null	null	
+mylan 155	null	null	null	null	
+co-enzyme q-10	null	null	null	null	a synonym with coenzyme Q10
+von willibrand	null	null	yes	null	
+wolff-parkinson white	null	null	null	null	
+factor 12	null	null	null	null	
+co-q 10	null	null	null	null	a synonym with coenzyme Q10
+molluscum contagiosa	null	null	null	yes	
+womens' health	null	null	yes	yes	
+molluscum virus	null	null	null	null	
+molluscum contagiosm	null	null	null	yes	
+molluscum contagiousm	null	null	null	yes	
+broken heart	null	null	null	null	modifier -- we had a long discussion on this one.  We found it difficult
+factor 9	null	null	null	null	
+factor eight	null	null	null	null	
+molluscum contagium	null	null	null	null	
+factor vi	null	null	null	null	
+enzyme q-10	null	null	null	null	a synonym with coenzyme Q10
+molluscum contagiusum	null	null	null	yes	
+molluscum contagiasum	null	null	null	yes	
+c. diff.	null	null	null	null	synonym for c difficile
+molluscum contagioscum	null	null	null	yes	
+molluscum contagisum	null	null	null	yes	
+c- diff	null	null	null	null	synonym for c difficile
+molluscum contangiosum	null	null	null	yes	
+molluscum contagosum	null	null	null	yes	
+molluscum contageosum	null	null	null	yes	
+molluscum contagiosium	null	null	null	yes	
+molluscum contagiosu	null	null	null	yes	
+molluscum contgiosum	null	null	null	yes	
+molluscum contaiousum	null	null	null	yes	
+molluscum contagiosom	null	null	null	yes	
+molluscum contagiosua	null	null	null	yes	
+molluscum contaliosum	null	null	null	yes	
+molluscum conttagiosum	null	null	null	yes	
+molluscum cantagiosum	null	null	null	yes	
+molluscum cointagiosum	null	null	null	yes	
+molluscum contagoisum	null	null	null	yes	
+molluscum contagiosun	null	null	null	yes	
+molluscum comtagiosum	null	null	null	yes	
+molluscum contagiousus	null	null	null	yes	
+molluscum contagionisn	null	null	null	yes	
+molluscum contggiosm	null	null	null	yes	
+molluscum contagiousa	null	null	null	yes	
+molluscum contaagiosum	null	null	null	yes	
+molluscum contragiosm	null	null	null	yes	
+molluscum contagioson	null	null	null	yes	
+molluscum contasiosum	null	null	null	yes	
+molluscum contangisium	null	null	null	yes	
+molluscum contagiocu	null	null	null	yes	
+molluscum cantagiousum	null	null	null	yes	
+molluscum contaciosum	null	null	null	yes	
+molluscum contagiousom	null	null	null	yes	
+molluscum congariosum	null	null	null	yes	
+protein in urine	null	null	null	null	
+stem cell research	null	null	null	null	
+post traumatic stress	null	null	null	null	
+white blood count	null	null	null	null	
+gastric bypass surgery	null	null	null	null	
+low blood sugar	null	null	null	null	
+post nasal drip	null	null	null	null	
+blood in semen	null	null	null	null	
+degenerative disk disease	null	null	null	null	
+stem cell transplant	null	null	null	null	
+easy to read	yes	null	null	null	
+blood pressure medication	null	null	null	null	
+heart bypass surgery	null	null	null	null	
+acid reflux disease	null	null	null	null	
+white cell count	null	null	null	null	
+water on knee	null	null	null	null	knee joint effusion
+adolescent alcohol abuse	null	null	null	null	
+alcohol abuse effects	null	null	null	null	
+alcohol abuse treatment	null	null	null	null	
+upper leg muscles	null	null	null	null	
+blood pressure medicine	null	null	null	null	
+fluid in lungs	null	null	null	null	
+blood pressure medications	null	null	null	null	
+bone density test	null	null	null	null	
+high blood sugar	null	null	null	null	
+hole in heart	null	null	null	null	
+gall bladder surgery	null	null	null	null	
+red blood count	null	null	null	null	
+blood in stools	null	null	null	null	
+obesity in children	null	null	null	null	
+numbness in hands	null	null	null	null	
+asthma in children	null	null	null	null	
+urinary track infection	null	null	null	null	
+high blood presure	null	null	null	null	
+breast cancer treatment	null	null	null	null	
+flesh eating disease	null	null	null	null	
+hip replacement surgery	null	null	null	null	
+african american women	null	null	null	null	
+toe nail fungus	null	null	null	null	
+weight loss surgery	null	null	null	null	
+sexual transmitted diseases	null	null	null	null	
+wolf parkinson white	null	null	yes	yes	
+south beach diet	null	null	null	null	
+food guide pyramid	null	null	null	null	
+irritable bowel syndrom	null	null	null	null	
+high platelet count	null	null	null	null	
+birth control patch	null	null	null	null	
+tb skin test	null	null	null	null	
+white matter disease	null	null	null	null	
+nuclear stress test	null	null	null	null	
+rotator cuff surgery	null	null	null	null	
+irritable bowl syndrome	null	null	null	null	
+medial collateral ligament	null	null	null	null	
+wolff parkinson white	null	null	null	null	
+leaky gut syndrome	null	null	null	null	
+fatty liver disease	null	null	null	null	
+small cell cancer	null	null	null	null	
+male yeast infection	null	null	null	null	
+gall bladder removal	null	null	null	null	
+guillian barre syndrome	null	null	null	null	
+knee replacement surgery	null	null	null	null	
+lasik eye surgery	null	null	null	null	
+blood glucose levels	null	null	null	null	
+protien in urine	null	null	null	null	
+prostate cancer treatment	null	null	null	null	
+high protein diets	null	null	null	null	
+coenzyme q 10	null	null	null	null	a synonym with coenzyme Q10
+radio frequency ablation	null	null	null	null	
+fluid in ear	null	null	null	null	
+pain in chest	null	null	null	null	
+calcium in blood	null	null	null	null	
+diabetes in children	null	null	null	null	
+iron in blood	null	null	null	null	
+glands in neck	null	null	null	null	
+auto immune disease	null	null	null	null	
+factor 5 leiden	null	null	null	null	
+numbness in arm	null	null	null	null	
+blood in bowel	null	null	null	null	
+mucous in stool	null	null	null	null	
+sores in mouth	null	null	null	null	
+glucose in urine	null	null	null	null	
+auto immune diseases	null	null	null	null	
+depression in elderly	null	null	null	null	
+lung cancer treatment	null	null	null	null	
+heart rate variability	null	null	null	null	
+fever in children	null	null	null	null	
+vaginal yeast infections	null	null	null	null	
+co q 10	null	null	null	null	a synonym with coenzyme Q10
+ketones in urine	null	null	null	null	
+carotid artery surgery	null	null	null	null	
+anterior cervical discectomy	null	null	null	null	
+national cancer institute	null	null	null	null	
+endoscopic sinus surgery	null	null	null	null	
+poor blood circulation	null	null	null	null	
+post operative care	null	null	null	null	
+over active thyroid	null	null	null	null	
+mucus in stools	null	null	null	null	
+sudden weight loss	null	null	null	null	
+carotid artery blockage	null	null	null	null	
+odor in urine	null	null	null	null	
+wolfe parkinson white	null	null	yes	yes	
+water in ear	null	null	null	null	
+bacteria in urine	null	null	null	null	
+colon cancer treatment	null	null	null	null	
+gillian barre syndrome	null	null	null	null	
+brown recluse bite	null	null	null	null	
+breast cancer treatments	null	null	null	null	
+prostate cancer treatments	null	null	null	null	
+liver cancer treatment	null	null	null	null	
+ovarian cancer treatment	null	null	null	null	
+thyroid cancer treatment	null	null	null	null	
+factor v lieden	null	null	yes	yes	
+ovarian cancer treatments	null	null	null	null	
+bone cancer treatment	null	null	null	null	
+factor v leyden	null	null	null	null	
+bladder cancer treatment	null	null	null	null	
+brown recluse bites	null	null	null	null	
+factor five leiden	null	null	null	null	
+diet for diabetes	null	null	null	null	
+pancreatic cancer treatment	null	null	null	null	
+lung cancer treatments	null	null	null	null	
+leiden factor 5	null	null	null	null	
+co-enzyme q 10	null	null	null	null	a synonym with coenzyme Q10
+cervical cancer treatment	null	null	null	null	
+skin cancer treatment	null	null	null	null	
+peg feeding tube	null	null	null	null	
+testicular cancer treatment	null	null	null	null	
+strep b infection	null	null	null	null	group b strep
+factor 5 lieden	null	null	null	null	
+factor 5 deficiency	null	null	null	null	
+factor 11 deficiency	null	null	null	null	
+prostrate cancer treatment	null	null	null	null	
+gastric cancer treatment	null	null	null	null	
+factor 8 deficiency	null	null	null	null	
+factor 12 deficiency	null	null	null	null	
+brain cancer treatments	null	null	null	null	
+factor v liden	null	null	null	null	
+chronic bloody nose	null	null	null	null	
+skin cancer treatments	null	null	null	null	
+muscles upper leg	null	null	yes	null	disparaged on the basis of word order
+bladder cancer treatments	null	null	null	null	
+esophageal cancer treatment	null	null	null	null	
+co enzyme q-10	null	null	null	null	a synonym with coenzyme Q10
+oral cancer treatment	null	null	null	null	
+kidney cancer treatment	null	null	null	null	
+liver cancer treatments	null	null	null	null	
+c - diff	null	null	null	null	synonym for c difficile
+chronic obstructive pulmonary disease	null	null	null	null	
+low white blood cell	null	null	null	null	refers to count
+low white blood count	null	null	null	null	
+new england journal medicine	null	null	null	null	
+attention deficit hyperactivity disorder	null	null	null	null	
+low white blood cells	null	null	null	null	refers to count
+dark circles under eyes	null	null	null	null	
+acute respiratory distress syndrome	null	null	null	null	
+white spots on skin	null	null	null	null	
+adult respiratory distress syndrome	null	null	null	null	
+chronic inflammatory demyelinating polyneuropathy	null	null	null	null	
+metallic taste in mouth	null	null	null	null	
+low white cell count	null	null	null	null	
+selective serotonin reuptake inhibitors	null	null	null	null	
+central auditory processing disorder	null	null	null	null	
+high blood pressure medication	null	null	null	null	
+benign paroxysmal positional vertigo	null	null	null	null	
+enlarged red blood cells	null	null	null	null	
+high white blood count	null	null	null	null	
+lymph nodes in neck	null	null	null	null	
+red spots on skin	null	null	null	null	
+high blood pressure medications	null	null	null	null	
+reflex sympathetic dystrophy syndrome	null	null	null	null	
+high blood pressure medicine	null	null	null	null	
+slipped capital femoral epiphysis	null	null	null	null	
+bronchiolitis obliterans organizing pneumonia	null	null	null	null	
+metal taste in mouth	null	null	null	null	
+salty taste in mouth	null	null	null	null	
+low red blood cells	null	null	null	null	refers to count
+blood clot in leg	null	null	null	null	
+obsessive compulsive personality disorder	null	null	null	null	
+blood clots in legs	null	null	null	null	
+heart disease in women	null	null	null	null	
+brown recluse spider bites	null	null	null	null	
+wolfe parkinson white syndrome	null	null	null	null	

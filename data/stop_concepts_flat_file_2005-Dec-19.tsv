@@ -1,0 +1,2108 @@
+CUI	UMLS_NAME
+C0039798	therapeutic aspects
+C0998265	Cancer genus
+C0038895	surgical aspects
+C1314792	etiology
+C0005768	in blood
+C0683368	symptoms
+C0011847	diabetes
+C1281570	entire heart
+C1278993	entire skin
+C1269537	entire brain
+C0812393	cancer patients and suicide and depression
+C0001688	adverse effects
+C1280202	entire eye
+C1278929	entire liver
+C0028678	nursing therapy
+C0042153	utilization
+C1266909	entire bony skeleton
+C0876889	pediatric
+C0518896	nutrition outcomes
+C0600072	feeding and dietary regimes
+C0449913	system (attribute)
+C0205041	cardio-
+C0947630	scientific study
+C0021501	injuries
+C1299584	able to and does (qualifier value)
+C1272751	does (qualifier value)
+C0871208	rating
+C0870834	management
+C0439136	lower case jay
+C1280698	entire throat (surface region of neck)
+C1278978	entire kidney
+C0348026	diagnostic
+C0521421	entire ear
+C1000483	genus anemia
+C1268990	entire breast
+C1278920	entire stomach
+C1266908	entire bone (organ)
+C1283838	entire knee region
+C0521009	bacterial
+C0042037	in urine
+C1278908	entire lung
+C0220784	anatomic
+C0019665	history
+C0439135	lower case eye
+C0439068	upper case eye
+C0439128	lower case sea
+C0439106	upper case sea
+C1281593	entire back (surface region)
+C1280541	entire nerve
+C1281587	entire foot
+C0684334	assessment of active neck movement
+C0684335	assessment of passive neck movement
+C1281592	entire neck
+C1269647	entire cell
+C0439126	lower case ay
+C0439104	upper case ay
+C1171258	complication aspects
+C1280739	entire penis
+C1278910	entire oral cavity
+C0220845	guiding characteristics
+C1281590	entire head
+C1267547	entire mouth region
+C0392688	nutritional deficiency (finding)
+C0031843	physiological aspects
+C0687732	prevention
+C0220844	growth aspects
+C0439127	lower case bee
+C0439105	upper case bee
+C0031847	physiopathological
+C1281583	entire hand
+C0745732	list
+C1267072	entire vertebral column
+C0348080	condition (attribute)
+C0220934	ultrasonic
+C1280065	entire spine
+C0548346	trauma assessment and care
+C0025664	methodology
+C1281569	entire colon
+C1306345	pressure - action (qualifier value)
+C1281573	entire bladder
+C0013217	pharmacotherapeutic
+C0521026	viral
+C1283792	entire shoulder region
+C0521457	foetal
+C0439118	upper case ess
+C1269032	entire uterus
+C1269611	entire joint
+C0557651	room of building - study
+C0220912	aspects of signs
+C0470207	2
+C1305737	entire fetus
+C0243148	control
+C1278985	entire vagina
+C0034992	rehabilitation aspects
+C0028708	nutrition assessment
+C1278980	entire prostate
+C0439113	upper case emm
+C0750480	count
+C0700205	function axis
+C0549076	assessment: safety
+C0549070	assessment: coping
+C0549072	assessment: health behavior
+C0549073	assessment: medications and blood products
+C0549074	assessment: metabolism
+C0549080	assessment: pre- or intra- or post-procedure
+C0549077	assessment: self-care
+C0549078	assessment: sensation, pain and comfort
+C0549079	assessment: urinary elimination
+C0439110	upper case gee
+C0243067	defects
+C1023865	laser plant
+C0205469	pathological aspects
+C0521125	preposition for
+C0439115	upper case pea
+C0439140	lower case pea
+C0040733	transplantation aspects
+C0475211	l (qualifier value)
+C0036525	metastatic to
+C0008903	taxonomic
+C1269001	entire gallbladder
+C0000769	teratologic
+C0220810	congenital defects
+C0025520	metabolic aspects
+C1281594	entire abdomen
+C0042295	valuing
+C0449851	techniques
+C0243077	inhibitors
+C0220931	training
+C0011945	physical dialysis
+C1059964	genus dialysis
+C0026336	models
+C0439142	lower case are
+C0439117	upper case are
+C1304811	congenital
+C0011155	deficiency
+C1278913	entire tongue
+C0439131	lower case ee
+C0439108	upper case ee
+C0220812	cost aspects
+C1281591	entire face
+C0220909	aspects of disease screening
+C0376691	programs [publication type]
+C0332287	in addition to
+C1274040	result (navigational concept)
+C0549075	assessment: respiration
+C0870300	assessment: cognition
+C0679207	knowledge acquisition using a method of assessment
+C0719635	dos
+C0277785	functional disorder
+C0439143	lower case tea
+C0439119	upper case tea
+C1278896	entire nose
+C0040539	toxicity aspects
+C0542573	assessment: bowel elimination
+C0549068	assessment: circulation
+C0549071	assessment: fluid and electrolytes
+C0000846	agenesis
+C0001555	administration & dosage
+C0002778	analysis of substances
+C0002809	anatomy & histology
+C0005572	bioformation
+C0005839	blood supply aspects
+C0007783	entire cerebral hemisphere
+C0007807	in cerebrospinal fluid
+C0007987	chemical synthesis
+C0007994	chemically induced
+C0010820	cellular aspects of
+C0011933	diagnostic use
+C0012160	nutritional management
+C0013557	economic
+C0013622	educational
+C0013943	embryologic
+C0014445	enzymology
+C0014508	epidemiologic
+C0017399	genetic aspects
+C0018271	growth & development
+C0021516	nerve supply
+C0021632	instrumentation
+C0023242	legislation & jurisprudence
+C0024752	workforce
+C0025953	microbiological
+C0026566	aspects of mortality statistics
+C0029236	organization and administration aspects
+C0030657	pathogenicity aspects
+C0031328	pharmacokinetic
+C0032344	poisoning aspects
+C0033107	prevention & control
+C0033739	protozoa
+C0033910	psychological aspects
+C0034526	aspects of radiation effects
+C0034571	roentgenographic
+C0034607	aspects of radionuclide imaging
+C0034619	radiotherapeutic
+C0036536	process of secretion
+C0038137	standards characteristics
+C0038292	entire sternocostal joint
+C0038849	supply & distribution
+C0039795	therapeutic use
+C0040722	transmission
+C0040745	entire transplanted kidney (body structure)
+C0040833	trends
+C0041623	ultrastructure
+C0042614	veterinary
+C0079107	chemical aspects
+C0079164	contraindications
+C0175676	use of ultrasonography
+C0178828	entire reproductive system
+C0205462	histologic
+C0205464	pharmacological
+C0205466	virologic
+C0205467	mycological
+C0205468	parasitological
+C0205470	immunologic
+C0220777	absorption characteristics
+C0220785	anthropological
+C0220790	bacteriologic aspects
+C0220796	biodegradational
+C0220797	biopsy characteristics
+C0220798	biotransformational
+C0220807	chemical structure
+C0220813	legal decisions
+C0220814	cultural
+C0220815	curriculum aspects
+C0220818	congenital deformities
+C0220819	device aspects
+C0220820	differential diagnostic aspects
+C0220823	epidemic aspects
+C0220824	equipment used
+C0220828	fee characteristics
+C0220829	fetal development aspects
+C0220830	financial management aspects
+C0220831	forecasting aspects
+C0220842	government regulatory aspects
+C0220846	helminthic
+C0220848	heredity aspects
+C0220856	incidence of cases
+C0220862	isolation aspects
+C0220865	kinetic characteristics
+C0220866	aspects of laws
+C0220868	legal aspects
+C0220872	legal procedural aspects
+C0220880	morbidity aspects
+C0220885	organizational
+C0220888	increasing incidence
+C0220899	preoperative procedures aspects
+C0220900	prevalence aspects
+C0220905	regulatory
+C0220906	rickettsial
+C0220907	salaried
+C0220911	serological aspects
+C0220920	surveillance aspects
+C0220921	survival aspects
+C0220922	systematic
+C0220924	teaching aspects
+C0220927	tissue distribution aspects
+C0220936	virulent characteristics
+C0220941	radiotherapeutic aspects
+C0221979	entire hair of scalp
+C0222183	entire skin of female genitalia
+C0222609	entire gland of montgomery (body structure)
+C0223161	entire c6 vertebra
+C0223221	entire t2 vertebra
+C0223266	entire t5 vertebra
+C0223371	entire t12 vertebra
+C0223563	entire intervertebral disc of fifth lumbar vertebra
+C0223744	entire hamate
+C0223751	entire first metacarpal
+C0223783	entire fifth metacarpal
+C0223794	entire proximal phalanx of finger
+C0223976	entire first metatarsal
+C0223984	entire second metatarsal
+C0223993	entire third metatarsal
+C0224001	entire fourth metatarsal bone
+C0224009	entire fifth metatarsal
+C0224128	entire superior rectus
+C0224130	entire medial rectus
+C0224131	entire lateral rectus
+C0224132	entire superior oblique
+C0224133	entire inferior oblique
+C0224229	entire supraspinatus
+C0224230	entire infraspinatus
+C0224233	entire subscapularis
+C0224235	entire biceps brachii
+C0224340	entire pectoralis major muscle
+C0224437	entire adductor longus
+C0224441	entire rectus femoris
+C0224472	entire flexor digitorum longus (body structure)
+C0224701	entire knee meniscus
+C0224728	entire first metatarsophalangeal joint
+C0225079	entire collateral carpal ulnar ligament
+C0225080	entire collateral carpal radial ligament
+C0225143	entire bifurcated ligament
+C0225917	entire left bundle branch
+C0226029	entire left coronary artery
+C0226042	entire right coronary artery
+C0227805	entire carunculae hymenales
+C0228562	entire spinal cord grey matter
+C0228863	entire anterior interosseous nerve
+C0229960	entire body as a whole (body structure)
+C0243066	atresia
+C0243070	aspects of congenital malformations
+C0243072	derivatives
+C0243073	assay
+C0243074	chemical analysis
+C0243076	antagonists
+C0243079	microvasculature
+C0243082	associated conditions
+C0243083	associated disease
+C0243086	concomitant conditions
+C0243088	sequelae
+C0243089	sequels
+C0243091	cellular morphology
+C0243095	findings
+C0243097	financing characteristics
+C0243100	embryonic development aspects
+C0243101	prenatal development aspects
+C0243102	enzyme activity
+C0243103	ethnicity
+C0243107	development aspects
+C0243110	historical notes
+C0243111	apparatus
+C0243112	appliances
+C0243113	instruments
+C0243114	purification
+C0243118	lawsuits
+C0243119	medicolegal aspects
+C0243120	ordinances
+C0243121	statutes
+C0243122	binding aspects
+C0243123	biochemical pathways
+C0243125	degradation
+C0243126	incorporation
+C0243127	biochemical turnover
+C0243130	endemics
+C0243132	occurrence
+C0243137	helminthology
+C0243138	protozoology
+C0243139	cytopathology
+C0243140	histopathological aspects
+C0243145	pharmacodynamic aspects
+C0243146	pharmacologic action
+C0243151	cognitive aspects
+C0243152	emotional aspects
+C0243154	psychiatric aspects
+C0243156	psychosocial aspects
+C0243161	criteria
+C0243163	supply aspects
+C0243168	margin of safety
+C0243173	urinary levels
+C0243176	chemical composition
+C0243177	chemical content
+C0243178	chemical properties
+C0243192	agonists
+C0278445	entire introitus of vagina
+C0282690	toxicokinetic
+C0300926	mobilization
+C0334079	aplastic
+C0376243	financial
+C0376244	funding aspects
+C0376249	with frequency
+C0392912	entire body system (body structure)
+C0439751	entire (qualifier value)
+C0444573	entire sacral spine (body structure)
+C0444595	entire skin of perianal area (body structure)
+C0446453	entire eye region (surface region) (body structure)
+C0446582	entire tarsal canal (body structure)
+C0446586	entire lesser toe (body structure)
+C0446623	entire sensory organ (body structure)
+C0446681	entire ventricle of brain (body structure)
+C0446686	entire meninges of spinal cord (body structure)
+C0446769	entire posterior interosseous nerve (body structure)
+C0446959	entire lobe of right lung (body structure)
+C0446960	entire lobe of left lung (body structure)
+C0446994	entire truncal valve (body structure)
+C0447009	entire leaflet of mitral valve (body structure)
+C0447037	entire carotid bifurcation (body structure)
+C0447050	entire infrarenal aorta (body structure)
+C0447210	entire maxillary teeth (body structure)
+C0447211	entire mandibular teeth (body structure)
+C0447273	entire maxillary right central incisor tooth (body structure)
+C0447274	entire maxillary right lateral incisor tooth (body structure)
+C0447420	entire transverse folds of palate (body structure)
+C0447550	entire intrahepatic duct (body structure)
+C0447590	entire penile urethra
+C0447596	entire corpus cavernosum (body structure)
+C0447666	entire temporal fascia
+C0447684	entire fascia of rectus abdominis muscle (body structure)
+C0447697	entire joint of head and neck (body structure)
+C0447723	entire joint between cervical vertebral bodies (body structure)
+C0447764	entire joint of rib
+C0447788	entire joint of sternum (body structure)
+C0447805	entire tibiofibular joint (body structure)
+C0447836	entire labrum glenoidale (body structure)
+C0447892	entire interosseous membrane of leg (body structure)
+C0447919	entire annular ligament of radius (body structure)
+C0447962	entire cranial bone
+C0448009	entire symphysis of mandible (body structure)
+C0448058	entire olecranon (body structure)
+C0448170	entire iliac spine (body structure)
+C0448190	entire proximal femur (body structure)
+C0448194	entire distal femur (body structure)
+C0448205	entire articular facet of patella (body structure)
+C0448240	entire tuberosity of navicular bone of foot (body structure)
+C0448268	entire head of third metatarsal bone (body structure)
+C0448271	entire vesalian bone (body structure)
+C0448281	entire skeletal muscle of head and neck (body structure)
+C0448305	entire levator palpebrae superioris (body structure)
+C0448317	entire stylopharyngeus muscle (body structure)
+C0448320	entire cricopharyngeal part of inferior constrictor pharyngeus muscle (body structure)
+C0448358	entire longissimus muscle (body structure)
+C0448359	entire spinalis muscle (body structure)
+C0448430	entire skeletal muscle of upper limb (body structure)
+C0448435	entire muscle of upper arm (body structure)
+C0448438	entire muscle of forearm (body structure)
+C0448447	entire intrinsic hand muscle (body structure)
+C0448466	entire skeletal muscle of lower limb (body structure)
+C0448472	entire posterior muscle of thigh
+C0448476	entire skeletal muscle of lower leg (body structure)
+C0448536	entire tendon of supraspinatus muscle
+C0448555	entire deep flexor tendon of finger (body structure)
+C0448636	entire peroneal longus plantaris muscle tendon (body structure)
+C0448642	entire plantaris muscle tendon (body structure)
+C0448795	entire circumorbital skin
+C0448812	entire skin of lateral portion of neck (body structure)
+C0448899	entire skin of knee
+C0448927	entire skin of hip
+C0450290	entire fovea centralis
+C0456938	entire fossa ovalis of heart (body structure)
+C0457055	entire sphincter urethrae muscle (body structure)
+C0457113	entire left auricular appendage (body structure)
+C0458248	entire skin of preauricular region (body structure)
+C0458332	entire cerebral lobe (body structure)
+C0458398	entire pole of kidney (body structure)
+C0458403	entire layer of kidney (body structure)
+C0458432	entire muscularis of urinary bladder (body structure)
+C0458434	entire detrusor muscle of urinary bladder (body structure)
+C0458455	entire prostatic urethra (body structure)
+C0458608	entire dartos layer of scrotum (body structure)
+C0458624	entire tunica albuginea of testis (body structure)
+C0458677	entire duct of seminal vesicle (body structure)
+C0458686	entire base of stapes (body structure)
+C0458688	entire interstitial tissue of prostate (body structure)
+C0458704	entire corpus spongiosum (body structure)
+C0458948	entire colonic haustra (body structure)
+C0458949	entire appendix epiploica (body structure)
+C0459559	entire orbital wall (body structure)
+C0459670	entire semilunar fold of conjunctiva (body structure)
+C0459725	entire hair (body structure)
+C0459737	entire ciliary epithelium (body structure)
+C0459940	entire l4 vertebra
+C0504592	entire body wall
+C0520511	distributing
+C0521033	fungal
+C0521066	parasitic
+C0543481	hypoplastic
+C0543482	morphological
+C0543483	pathogenic aspects
+C0543484	catabolic aspects
+C0555951	entire gallbladder fossa of liver (body structure)
+C0559817	entire trochanteric section of femur (body structure)
+C0559982	entire tendon of infraspinatus muscle (body structure)
+C0559987	entire tendon of subscapularis muscle (body structure)
+C0576462	entire proximal phalanx (body structure)
+C0576463	entire middle phalanx (body structure)
+C0576464	entire distal phalanx (body structure)
+C0578894	entire spina mentalis (body structure)
+C0580081	entire hemorrhoidal plexus (body structure)
+C0581255	entire lower lobe bronchus (body structure)
+C0582798	entire collateral ulnar ligament of elbow (body structure)
+C0600686	related compounds
+C0687114	organizational structure
+C0699032	hierarchy
+C0728866	drug effects
+C0729905	entire ostium of coronary artery (body structure)
+C0729906	entire ostium of left coronary artery (body structure)
+C0935919	cellular structure aspects
+C0969625	methodology aspects
+C0994454	home care aspects
+C1108678	death rate aspects
+C1135598	postnatal development
+C1135599	mental aspects
+C1136353	ethical aspects
+C1148554	determination aspects
+C1176460	entire ankle surface region
+C1254044	entire surface region of knee (body structure)
+C1266915	entire condyle
+C1267085	entire tarsal bone
+C1267098	entire skeletal muscle of hip
+C1267108	entire compound joint
+C1267110	entire synovial joint
+C1267111	entire fibrous joint
+C1267112	entire syndesmosis
+C1267113	entire gomphosis
+C1267114	entire cartilaginous joint
+C1267115	entire synchondrosis
+C1267116	entire symphysis
+C1267117	entire zygapophyseal joint
+C1267145	entire tendon of thumb
+C1267152	entire flexor tendon of thumb
+C1267175	entire stylohyoid ligament
+C1267195	entire metatarsal ligament
+C1267196	entire thoracolumbar fascia
+C1267200	entire falx inguinalis
+C1267211	entire duct (organ)
+C1267214	entire root of nose
+C1267236	entire respiratory bronchiole
+C1267263	entire vasa vasorum
+C1267264	entire afferent arteriole
+C1267265	entire efferent arteriole
+C1267289	entire left anterior cerebral artery
+C1267298	entire right middle cerebral artery
+C1267299	entire left middle cerebral artery
+C1267306	entire rolandic artery
+C1267315	entire right vertebral artery
+C1267316	entire left vertebral artery
+C1267319	entire right posterior cerebral artery
+C1267334	entire colic artery
+C1267336	entire right renal artery
+C1267355	entire left internal iliac artery
+C1267357	entire gluteal artery
+C1267403	entire postcapillary venule
+C1267419	entire suprascapular vein
+C1267425	entire sublingual vein
+C1267472	entire right hepatic vein
+C1267476	entire left testicular vein
+C1267482	entire left renal vein
+C1267483	entire right renal vein
+C1267604	entire hepatic sinusoid
+C1267759	entire subcostal nerve
+C1268018	entire mandibular lymph node
+C1268029	entire pretracheal lymph node
+C1268059	entire cystic lymph node
+C1268089	entire viscus
+C1268233	entire right hip region
+C1268234	entire left hip region
+C1268255	entire right upper arm
+C1268256	entire left upper arm
+C1268257	entire right elbow region
+C1268258	entire left elbow region
+C1268513	entire embryo stage 2
+C1268543	entire sternebra
+C1268965	entire celiac artery
+C1268966	entire frenulum linguae
+C1268970	entire external auditory canal
+C1268971	entire tympanic membrane
+C1268972	entire middle ear
+C1268973	entire inner ear
+C1268974	entire nasal septum
+C1268975	entire nasopharynx
+C1268976	entire submandibular gland
+C1268977	entire frontal lobe
+C1268978	entire temporal lobe
+C1268979	entire parietal lobe
+C1268980	entire occipital lobe
+C1268981	entire cerebellum
+C1268982	entire lateral ventricle
+C1268983	entire third ventricle
+C1268984	entire olfactory nerve
+C1268985	entire optic nerve
+C1268986	entire trochlear nerve
+C1268987	entire musculocutaneous nerve
+C1268988	entire sympathetic trunk
+C1268989	entire adrenal gland
+C1268995	entire extraocular muscle
+C1268997	entire upper gastrointestinal tract
+C1268998	entire small intestine
+C1268999	entire large intestine
+C1269000	entire appendix
+C1269002	entire greater duodenal papilla
+C1269003	entire pancreatic duct
+C1269004	entire mitral valve
+C1269005	entire aortic valve
+C1269006	entire tricuspid valve
+C1269007	entire pulmonary valve
+C1269008	entire coronary artery
+C1269009	entire ascending aorta
+C1269010	entire aortic arch
+C1269011	entire anterior cerebral artery
+C1269012	entire middle cerebral artery
+C1269013	entire posterior cerebral artery
+C1269014	entire posterior communicating artery
+C1269015	entire vertebral artery
+C1269016	entire inferior mesenteric artery
+C1269017	entire internal iliac artery
+C1269018	entire profunda femoris artery
+C1269019	entire external iliac artery
+C1269020	entire anterior tibial artery
+C1269021	entire posterior tibial artery
+C1269022	entire dorsalis pedis artery
+C1269023	entire superior vena cava
+C1269024	entire inferior vena cava
+C1269025	entire internal jugular vein
+C1269026	entire pulmonary artery
+C1269027	entire common iliac vein
+C1269029	entire small saphenous vein
+C1269030	entire lower urinary tract
+C1269031	entire rectouterine pouch
+C1269035	entire skin of posterior surface of upper arm
+C1269040	entire nail bed
+C1269041	entire abdominal wall
+C1269043	entire adductor muscle
+C1269045	entire skeletal muscle of neck
+C1269047	entire lymph node
+C1269048	entire temporomandibular joint
+C1269049	entire cervical vertebra
+C1269050	entire thoracic vertebra
+C1269051	entire lumbar vertebra
+C1269052	entire tibial plateau
+C1269053	entire talus
+C1269054	entire os calcis
+C1269055	entire sternoclavicular joint
+C1269056	entire glenohumeral joint
+C1269059	entire base of skull
+C1269060	entire odontoid process of axis
+C1269061	entire shaft of humerus
+C1269062	entire bone of wrist
+C1269063	entire triangular bone
+C1269064	entire metacarpal
+C1269065	entire anterior superior iliac spine
+C1269070	entire sacroiliac joint
+C1269071	entire patellofemoral joint
+C1269072	entire femorotibial joint
+C1269073	entire knee joint
+C1269075	entire distal tibiofibular joint
+C1269076	entire subtalar joint
+C1269077	entire tarsometatarsal joint
+C1269078	entire upper limb
+C1269079	entire lower limb
+C1269080	entire ligament
+C1269081	entire ligamentum nuchae
+C1269084	entire lateral collateral ligament of knee joint
+C1269085	entire ligament of ankle joint
+C1269087	entire subacromial bursa
+C1269528	entire sphincter ani muscle
+C1269529	entire aryepiglottic fold
+C1269532	entire common hepatic duct
+C1269533	entire floor of mouth
+C1269536	entire ductus arteriosus
+C1269538	entire cervical spine
+C1269539	entire glans penis
+C1269540	entire paraurethral gland
+C1269541	entire petrous bone
+C1269542	entire sacrum
+C1269543	entire carpal canal
+C1269544	entire epiploic foramen
+C1269546	entire apex of left ventricle
+C1269548	entire external ear
+C1269549	entire zygoma
+C1269550	entire urachus
+C1269552	entire sinoatrial node
+C1269553	entire atrioventricular node
+C1269554	entire sinus of valsalva
+C1269556	entire superior mesenteric vein
+C1269559	entire hepatic vein
+C1269560	entire nervous system
+C1269561	entire respiratory system
+C1269562	entire cardiovascular system
+C1269563	entire central nervous system
+C1269564	entire musculoskeletal system
+C1269565	entire digestive system
+C1269566	entire endometrium
+C1269567	entire long thoracic nerve
+C1269572	entire terminal bronchiole
+C1269574	entire geniculate ganglion
+C1269575	entire medulla oblongata
+C1269576	entire broca's area
+C1269577	entire transverse sinus
+C1269578	entire substantia nigra
+C1269579	entire red nucleus
+C1269580	entire caudate nucleus
+C1269581	entire corpus striatum
+C1269582	entire lentiform nucleus
+C1269583	entire lateral semicircular canal
+C1269584	entire posterior semicircular canal
+C1269585	entire anterior semicircular canal
+C1269586	entire cochlear window
+C1269587	entire superior pole of kidney
+C1269588	entire inferior pole of kidney
+C1269590	entire semicircular canal
+C1269591	entire transverse cervical ligament
+C1269592	entire nervus intermedius
+C1269596	entire inferior alveolar nerve
+C1269598	entire cisterna magna
+C1269600	entire palpebral fissure
+C1269601	entire optic tract
+C1269602	entire metacarpophalangeal joint
+C1269603	entire inferior mesenteric vein
+C1269605	entire suprapatellar bursa
+C1269608	entire shaft of ulna
+C1269609	entire metatarsal
+C1269610	entire metatarsophalangeal joint
+C1269612	entire upper arm
+C1269613	entire thumb
+C1269614	entire thorax
+C1269615	entire proximal end of humerus
+C1269617	entire meckel's cartilage
+C1269621	entire auditory vesicle
+C1269645	entire body of sternum
+C1269646	entire sympathetic nervous system
+C1269692	entire hemithorax
+C1269843	entire hemidiaphragm
+C1269870	entire thoracic spine
+C1269871	entire lumbar spine
+C1269872	entire intercostal space
+C1269877	entire skin of calf of leg
+C1269881	entire basilar artery
+C1269882	entire abdominal aorta
+C1269883	entire left pulmonary artery
+C1269884	entire right pulmonary artery
+C1269885	entire internal thoracic artery
+C1269886	entire left subclavian artery
+C1269887	entire right subclavian artery
+C1269888	entire hepatic artery proper
+C1269889	entire inferior epigastric artery
+C1269890	entire right atrium
+C1269891	entire right ventricle
+C1269892	entire left ventricle
+C1269893	entire coronary sinus
+C1269894	entire left atrium
+C1269896	entire thalamus
+C1269897	entire cranial nerve
+C1269898	entire superior hypogastric plexus
+C1269899	entire arcuate popliteal ligament
+C1269900	entire oblique popliteal ligament
+C1269901	entire foramen magnum
+C1269902	entire costal cartilage
+C1269903	entire posterior crural muscle
+C1269914	entire popliteus
+C1273020	entire jaw region
+C1275494	entire temporalis muscle
+C1275495	entire elbow joint
+C1275511	entire preauricular region
+C1275964	entire scalp vein
+C1275965	entire antecubital vein
+C1276270	entire blood vessel of head
+C1276862	entire endocervical glandular cell
+C1277118	entire stylomastoid foramen
+C1277310	entire temporal fossa
+C1277311	entire pterygopalatine fossa
+C1277314	entire glabella
+C1277593	entire hypoglossal canal
+C1277604	entire tuberculum sellae
+C1277940	entire tonsillar crypt
+C1278282	entire angular artery
+C1278459	entire retromandibular vein
+C1278543	entire fetal vertex
+C1278585	entire right external carotid artery
+C1278586	entire left external carotid artery
+C1278588	entire right internal carotid artery
+C1278637	entire cervical spinal canal
+C1278647	entire ligament of neck
+C1278658	entire hair of neck
+C1278686	entire laryngeal pouch
+C1278707	entire thyroid notch
+C1278758	entire carotid sheath
+C1278779	entire thyroid follicle
+C1278782	entire thyroid capsule
+C1278814	entire pharyngeal bursa
+C1278832	entire fourth ventricle
+C1278834	entire abducens nerve
+C1278835	entire vestibulocochlear nerve
+C1278836	entire spinal cord
+C1278837	entire cervical spinal cord
+C1278838	entire lumbar spinal cord
+C1278839	entire spinal nerve root
+C1278841	entire brachial plexus
+C1278844	entire axillary nerve
+C1278845	entire median nerve
+C1278846	entire radial nerve
+C1278847	entire ulnar nerve
+C1278850	entire lumbosacral plexus
+C1278851	entire sciatic nerve
+C1278852	entire femoral nerve
+C1278853	entire obturator nerve
+C1278854	entire lateral femoral cutaneous nerve
+C1278855	entire ilioinguinal nerve
+C1278856	entire iliohypogastric nerve
+C1278857	entire sacral plexus
+C1278858	entire pudendal nerve
+C1278859	entire superior gluteal nerve
+C1278860	entire inferior gluteal nerve
+C1278861	entire genitofemoral nerve
+C1278864	entire sural nerve
+C1278865	entire common peroneal nerve
+C1278866	entire tibial nerve
+C1278867	entire saphenous nerve
+C1278868	entire superficial peroneal nerve
+C1278869	entire deep peroneal nerve
+C1278870	entire medial plantar nerve
+C1278871	entire lateral plantar nerve
+C1278872	entire sympathetic nerve
+C1278873	entire stellate ganglion
+C1278875	entire cervical plexus
+C1278877	entire suprascapular nerve
+C1278878	entire thyroid gland
+C1278879	entire parathyroid gland
+C1278880	entire pituitary gland
+C1278881	entire pineal gland
+C1278884	entire orbital region
+C1278885	entire canthus
+C1278886	entire lacrimal gland
+C1278888	entire conjunctiva
+C1278889	entire cornea
+C1278890	entire sclera
+C1278891	entire iris
+C1278892	entire lens
+C1278893	entire vitreous body
+C1278894	entire retina
+C1278895	entire cochlea
+C1278897	entire adenoid
+C1278898	entire nasal sinus
+C1278899	entire maxillary sinus
+C1278900	entire frontal sinus
+C1278901	entire ethmoid sinus
+C1278902	entire sphenoid sinus
+C1278903	entire pharynx
+C1278904	entire larynx
+C1278905	entire trachea
+C1278906	entire carina
+C1278907	entire bronchus
+C1278909	entire mediastinum
+C1278911	entire lip
+C1278912	entire gingiva
+C1278914	entire palate
+C1278916	entire parotid gland
+C1278917	entire salivary gland
+C1278918	entire salivary duct
+C1278919	entire esophagus
+C1278921	entire duodenum
+C1278922	entire jejunum
+C1278923	entire ileum
+C1278925	entire cecum
+C1278926	entire rectum
+C1278927	entire anus
+C1278928	entire biliary tract
+C1278930	entire sphincter of oddi
+C1278931	entire pancreas
+C1278932	entire spleen
+C1278933	entire pericardium
+C1278934	entire aorta
+C1278935	entire descending thoracic aorta
+C1278936	entire cerebral artery
+C1278937	entire ophthalmic artery
+C1278938	entire anterior communicating artery
+C1278939	entire axillary artery
+C1278940	entire brachial artery
+C1278942	entire superficial temporal artery
+C1278943	entire maxillary artery
+C1278944	entire lingual artery
+C1278945	entire facial artery
+C1278946	entire anterior spinal artery
+C1278948	entire radial artery
+C1278949	entire ulnar artery
+C1278951	entire renal artery
+C1278953	entire popliteal artery
+C1278955	entire superior gluteal artery
+C1278957	entire peroneal artery
+C1278960	entire vein
+C1278961	entire renal vein
+C1278962	entire brachiocephalic vein
+C1278963	entire external jugular vein
+C1278964	entire facial vein
+C1278965	entire lingual vein
+C1278967	entire subclavian vein
+C1278968	entire axillary vein
+C1278969	entire brachial vein
+C1278970	entire cephalic vein
+C1278971	entire median cubital vein
+C1278972	entire basilic vein
+C1278975	entire gluteal vein
+C1278976	entire long saphenous vein
+C1278977	entire upper urinary tract
+C1278979	entire base of right lung
+C1278981	entire testis
+C1278982	entire epididymis
+C1278983	entire spermatic cord
+C1278984	entire seminal vesicle
+C1278986	entire clitoris
+C1278987	entire cervix uteri
+C1278988	entire placenta
+C1278991	entire fallopian tube
+C1278992	entire ovary
+C1278994	entire skin of forehead
+C1278995	entire skin of cheek
+C1278996	entire skin of chin
+C1278997	entire scalp
+C1278998	entire skin of head
+C1278999	entire skin of trunk
+C1279000	entire skin of breast
+C1279001	entire skin of back
+C1279002	entire skin of buttock
+C1279005	entire skin of nipple
+C1279006	entire skin of areola
+C1279010	entire skin of hand
+C1279011	entire skin of foot
+C1279012	entire skin of toe
+C1279013	entire skin of upper arm
+C1279014	entire skin of elbow
+C1279016	entire skin of wrist
+C1279017	entire skin of thigh
+C1279019	entire skin of ankle
+C1279029	entire nail of thumb
+C1279035	entire chest wall
+C1279036	entire pleura
+C1279038	entire diaphragm
+C1279039	entire peritoneal cavity
+C1279040	entire triceps brachii
+C1279042	entire iliotibial tract
+C1279044	entire skeletal muscle of back
+C1279045	entire intercostal muscle
+C1279046	entire cervical lymph node
+C1279047	entire scalene lymph node
+C1279048	entire axillary lymph node
+C1279049	entire mediastinal lymph node
+C1279050	entire inguinal lymph node
+C1279051	entire fascia
+C1279052	entire frontal bone
+C1279053	entire parietal bone
+C1279054	entire temporal bone
+C1279055	entire occipital bone
+C1279056	entire facial bone
+C1279057	entire nasal bone
+C1279059	entire mandible
+C1279060	entire maxilla
+C1279061	entire vertebra
+C1279062	entire cranium
+C1279064	entire posterior arch of atlas
+C1279070	entire clavicle
+C1279073	entire spine of scapula
+C1279075	entire humerus
+C1279076	entire head of humerus
+C1279077	entire medial epicondyle of humerus
+C1279079	entire lateral epicondyle of humerus
+C1279080	entire greater tuberosity of humerus
+C1279082	entire surgical neck of humerus
+C1279083	entire radius
+C1279084	entire head of radius
+C1279085	entire neck of radius
+C1279086	entire styloid process of radius
+C1279087	entire ulna
+C1279088	entire coronoid process of ulna
+C1279096	entire first rib
+C1279099	entire ischium
+C1279100	entire acetabulum
+C1279101	entire coccyx
+C1279102	entire ilium
+C1279104	entire iliac crest
+C1279105	entire pubis
+C1279107	entire pubic tubercle
+C1279109	entire ischial tuberosity
+C1279110	entire ischial spine
+C1279112	entire femur
+C1279113	entire shaft of femur
+C1279114	entire greater trochanter of femur
+C1279115	entire lesser trochanter of femur
+C1279118	entire tibia
+C1279121	entire lateral condyle of tibia
+C1279122	entire head of fibula
+C1279123	entire patella
+C1279125	entire cuboid
+C1279128	entire head of talus
+C1279137	entire acromioclavicular joint
+C1279139	entire wrist joint
+C1279142	entire joint of finger
+C1279144	entire hip joint
+C1279146	entire ankle joint
+C1279151	entire groin (surface region)
+C1279152	entire back of head
+C1279153	entire cheek
+C1279154	entire axilla
+C1279155	entire iliac fossa
+C1279156	entire sacral region
+C1279158	entire pubic region
+C1279161	entire coracoacromial ligament
+C1279162	entire glenohumeral ligament
+C1279168	entire ligament of hip joint
+C1279169	entire iliofemoral ligament
+C1279172	entire ligament of knee joint
+C1279175	entire plantar aponeurosis
+C1279176	entire long plantar ligament
+C1279178	entire bursa
+C1279179	entire trochanteric bursa
+C1279180	entire prepatellar bursa
+C1279181	entire infrapatellar bursa
+C1279337	entire inferior hypogastric plexus
+C1279397	entire paratracheal lymph node
+C1279402	entire tracheal muscle
+C1279404	entire tracheal lumen
+C1279411	entire ligamentum arteriosum
+C1279421	entire bronchial vein
+C1279432	entire bronchial lumen
+C1279455	entire lung parenchyma
+C1279457	entire alveolar epithelium
+C1279466	entire pulmonary ligament
+C1279493	entire aortic area
+C1279494	entire pulmonic area
+C1279495	entire mitral area
+C1279512	entire lactating breast
+C1279527	entire thoracic nerve
+C1279545	entire lateral epicondyle of femur
+C1279548	entire right thigh
+C1279549	entire left thigh
+C1279569	entire adductor canal
+C1279571	entire right knee
+C1279572	entire left knee
+C1279580	entire sternum
+C1279596	entire vein of the knee
+C1279605	entire right lower leg
+C1279606	entire left lower leg
+C1279630	entire lateral sural cutaneous nerve
+C1279650	entire ball of foot
+C1279722	entire skin of all toes
+C1279862	entire shoulder girdle
+C1279864	entire pelvis
+C1279869	entire tendon of toe
+C1279997	entire metatarsal joint
+C1279998	entire right foot
+C1279999	entire left foot
+C1280013	entire right ankle
+C1280015	entire left ankle
+C1280022	entire anterior talofibular ligament
+C1280023	entire posterior talofibular ligament
+C1280041	entire mid abdomen (surface region)
+C1280042	entire right upper quadrant of abdomen
+C1280043	entire left upper quadrant of abdomen
+C1280045	entire upper abdominal quadrant
+C1280046	entire right lower quadrant of abdomen
+C1280047	entire left lower quadrant of abdomen
+C1280048	entire lower abdominal quadrant
+C1280049	entire right renal pelvis
+C1280050	entire left renal pelvis
+C1280064	entire body region
+C1280066	entire thoracic inlet
+C1280078	entire thoracic cavity
+C1280080	entire posterior mediastinum
+C1280083	entire umbilical region
+C1280084	entire inguinal region
+C1280085	entire inguinal canal
+C1280086	entire retroperitoneal space
+C1280087	entire waist (surface region)
+C1280088	entire perineum
+C1280090	entire limb
+C1280093	entire skin of nose
+C1280095	entire skin of tip of nose
+C1280096	entire skin of lip
+C1280102	entire skin of shoulder
+C1280104	entire nail of finger
+C1280105	entire nail of toe
+C1280106	entire artery of head, neck and/or brain
+C1280108	entire choroidal artery
+C1280109	entire anterior choroidal artery
+C1280113	entire posterior auricular artery
+C1280116	entire costocervical trunk
+C1280119	entire aortic bifurcation
+C1280124	entire brachiocephalic artery
+C1280125	entire bronchial artery
+C1280127	entire splenic artery
+C1280130	entire gastroduodenal artery
+C1280135	entire cystic artery
+C1280137	entire middle colic artery
+C1280141	entire ovarian artery
+C1280142	entire testicular artery
+C1280145	entire bowman's space
+C1280153	entire uterine artery
+C1280154	entire vaginal artery
+C1280161	entire external pudendal artery
+C1280162	entire internal pudendal artery
+C1280172	entire iliac artery
+C1280173	entire femoral artery
+C1280177	entire right ventricular outflow tract
+C1280179	entire systemic vein (body structure)
+C1280181	entire cerebral vein
+C1280184	entire inferior cerebral vein
+C1280187	entire cavernous sinus
+C1280188	entire jugular vein
+C1280189	entire vein of trunk
+C1280190	entire vena cava
+C1280191	entire azygous vein
+C1280193	entire fetal umbilical vein
+C1280196	entire sacral spinal cord
+C1280198	entire trigeminal ganglion
+C1280200	entire peripheral nerve
+C1280203	entire skin of eyebrow
+C1280204	entire iridocorneal angle
+C1280205	entire upper eyelid
+C1280209	entire joint of thumb
+C1280211	entire intervertebral disc
+C1280213	entire supraspinous ligament
+C1280214	entire interspinous ligament
+C1280215	entire ligamentum flavum
+C1280217	entire anterior longitudinal ligament
+C1280218	entire posterior longitudinal ligament
+C1280222	entire coracohumeral ligament
+C1280226	entire calcaneofibular ligament
+C1280227	entire ligament of foot
+C1280229	entire palatine bone
+C1280230	entire second rib
+C1280231	entire macula densa
+C1280233	entire fourth rib
+C1280236	entire seventh rib
+C1280238	entire ninth rib
+C1280241	entire twelfth rib
+C1280244	entire maxillary tuberosity
+C1280245	entire body of mandible
+C1280246	entire angle of mandible
+C1280260	entire skeletal muscle (organ)
+C1280264	entire pterygoid muscle
+C1280271	entire cricothyroid muscle
+C1280275	entire skeletal muscle of trunk
+C1280282	entire skeletal muscle of abdomen
+C1280284	entire skeletal muscle of pelvis
+C1280287	entire obturator muscle
+C1280288	entire plantar muscle of foot
+C1280300	entire tendon of biceps femoris
+C1280301	entire tendon of semimembranosus
+C1280302	entire tendon of foot
+C1280306	entire submental lymph node
+C1280307	entire submandibular lymph node
+C1280308	entire jugular lymph node
+C1280309	entire supraclavicular lymph node
+C1280310	entire occipital lymph node
+C1280311	entire anterior auricular lymph node
+C1280313	entire abdominal lymph node
+C1280315	entire pelvic lymph node
+C1280317	entire porta hepatis
+C1280318	entire tail of pancreas
+C1280319	entire uncinate process of pancreas
+C1280322	entire neck of gallbladder
+C1280323	entire cystic duct
+C1280324	entire hepatic duct
+C1280325	entire left hepatic duct
+C1280330	entire right colic flexure
+C1280331	entire left colic flexure
+C1280332	entire rectosigmoid junction
+C1280336	entire anal canal
+C1280338	entire anal sinus
+C1280341	entire urinary tract
+C1280344	entire vas deferens
+C1280345	entire hymen
+C1280346	entire vaginal vault
+C1280347	entire fornix of vagina
+C1280351	entire lower uterine segment
+C1280355	entire cervical canal
+C1280356	entire round ligament of uterus
+C1280357	entire uterosacral ligament
+C1280360	entire epiglottis
+C1280361	entire vocal cord
+C1280362	entire vocal fold
+C1280363	entire main bronchus
+C1280366	entire collecting tubule
+C1280367	entire lobe of lung
+C1280368	entire neurohypophysis
+C1280369	entire adenohypophysis
+C1280370	entire pituitary pars tuberalis
+C1280374	entire dental arch
+C1280375	entire permanent tooth
+C1280376	entire lower nephron
+C1280386	entire gingival sulcus
+C1280388	entire upper lip
+C1280389	entire lower lip
+C1280390	entire hard palate
+C1280391	entire papilla incisiva of mouth
+C1280392	entire soft palate
+C1280398	entire mucous membrane of lip
+C1280401	entire medial patellar retinaculum
+C1280406	entire skin of eyelid
+C1280407	entire skin of upper eyelid
+C1280415	entire perirenal fat
+C1280431	entire exocrine pancreas
+C1280434	entire sphincter pancreaticus
+C1280448	entire retroperitoneal lymph node
+C1280484	entire vaginal rugae
+C1280490	entire vaginal canal
+C1280498	entire uterine serosa
+C1280501	entire endometrial stroma
+C1280521	entire capillary blood vessel (organ)
+C1280533	entire chorionic plate
+C1280534	entire placental cotyledon
+C1280536	entire placental membrane
+C1280538	entire tendon
+C1280540	entire buccal mucosa
+C1280542	entire beard
+C1280546	entire intervillous space
+C1280547	entire chorion frondosum
+C1280552	entire placental site
+C1280553	entire chorion laeve
+C1280571	entire cumulus oophorus
+C1280579	entire rete ovarii
+C1280603	entire gastrocolic ligament
+C1280605	entire infratemporal fossa
+C1280611	entire anterior mediastinum
+C1280618	entire umbilical artery
+C1280619	entire atrium
+C1280620	entire mesoappendix
+C1280632	entire trunk
+C1280646	entire manubriosternal joint
+C1280648	entire costotransverse joint
+C1280649	entire ciliary body
+C1280650	entire lacrimal punctum
+C1280653	entire hyoid bone
+C1280654	entire cerebrum
+C1280655	entire head of rib
+C1280656	entire neck of rib
+C1280659	entire oropharynx
+C1280660	entire cauda equina
+C1280672	entire nasal cavity
+C1280674	entire thyroid cartilage
+C1280675	entire cricoid cartilage
+C1280677	entire duodenojejunal flexure
+C1280680	entire membranous labyrinth
+C1280683	entire angle of mouth
+C1280685	entire epitrochlear lymph node
+C1280687	entire hilum of lung
+C1280690	entire male urethra
+C1280691	entire malleus
+C1280694	entire pituitary fossa
+C1280695	entire stapes
+C1280697	entire tarsus
+C1280703	entire arytenoid cartilage
+C1280704	entire choroid plexus
+C1280705	entire cranial cavity
+C1280708	entire cuneiform cartilage
+C1280709	entire endocervix
+C1280710	entire female urethra
+C1280711	entire glottis
+C1280712	entire hypothalamus
+C1280714	entire testicular vein
+C1280717	entire retrocecal appendix
+C1280725	entire pericolic tissue
+C1280732	entire nipple
+C1280733	entire eyebrow
+C1280734	entire eyelid
+C1280735	entire external nose
+C1280736	entire palatine tonsil
+C1280737	entire subclavian artery
+C1280740	entire scrotum
+C1280741	entire male perineum
+C1280742	entire vulva
+C1280743	entire female perineum
+C1280744	entire umbilicus
+C1280750	entire intestinal epithelium
+C1280770	entire auerbach's plexus
+C1280772	entire inferior esophageal sphincter
+C1280774	entire pyloric gland
+C1280775	entire pyloric sphincter
+C1280778	entire cardiac incisure of stomach
+C1280781	entire gastric rugae
+C1280799	entire valve of heister
+C1280803	entire caudate process of caudate lobe of liver
+C1280836	entire body organ
+C1280837	entire digestive organ
+C1280838	entire female genital organ
+C1280839	entire incus
+C1280844	entire uterine ligament
+C1280845	entire ethmoid bone
+C1280847	entire sphenoid bone
+C1280849	entire vomer bone
+C1280850	entire zygomatic arch
+C1280851	entire os zygomaticum
+C1280861	entire lymphatics of kidney
+C1280875	entire vein of neck
+C1280879	entire parasympathetic nerve
+C1280888	entire vestibular gland
+C1280889	entire bile duct
+C1280890	entire extrahepatic bile duct
+C1280896	entire anterior naris
+C1280898	entire psoas muscle
+C1280901	entire pancreatic lymph node
+C1280904	entire right ureter
+C1280906	entire cardiac chamber
+C1280924	entire lingual tonsil
+C1280926	entire pharyngeal recess
+C1280928	entire lacunar ligament
+C1280930	entire wall of cervix
+C1280934	entire cardiac ventricle
+C1280937	entire tendon of todaro
+C1280938	entire cardiac vein
+C1280939	entire great cardiac vein
+C1280945	entire retinal artery
+C1280953	entire splenic vein
+C1280955	entire middle meningeal artery
+C1280956	entire cerebellar artery
+C1280958	entire ovarian vein
+C1280959	entire suprarenal vein
+C1280961	entire foramen of bochdalek
+C1280962	entire foramen of morgagni
+C1280969	entire hesselbach's triangle
+C1280970	entire inguinal ring
+C1280971	entire deep inguinal ring
+C1280973	entire genitourinary system
+C1280974	entire lymphoreticular system
+C1280975	entire endocrine system (body structure)
+C1280976	entire dorsal scapular nerve
+C1280979	entire thoracodorsal nerve
+C1280981	entire bulbourethral gland
+C1280983	entire nasal vestibule
+C1280984	entire nasal cartilage
+C1280986	entire tracheal cartilage
+C1280991	entire frontal region
+C1280992	entire lactiferous sinus
+C1280994	entire cisterna chyli
+C1280995	entire lymphatic vessel
+C1280997	entire midbrain
+C1280999	entire pons
+C1281000	entire cerebellar vermis
+C1281003	entire parotid lymph node
+C1281004	entire popliteal lymph node
+C1281005	entire pulvinar
+C1281006	entire femoral lymph node
+C1281007	entire jugular notch of sternum
+C1281009	entire postcentral gyrus
+C1281010	entire superior parietal lobule
+C1281013	entire supramarginal gyrus
+C1281014	entire angular gyrus
+C1281019	entire insula
+C1281023	entire gyrus rectus
+C1281025	entire cingulate gyrus
+C1281026	entire dentate gyrus
+C1281029	entire middle cerebellar peduncle
+C1281034	entire interventricular foramen
+C1281038	entire sigmoid sinus
+C1281041	entire occipital sinus
+C1281046	entire falx cerebri
+C1281048	entire superior cervical ganglion
+C1281050	entire inferior cervical ganglion
+C1281051	entire ciliary ganglion
+C1281053	entire otic ganglion
+C1281060	entire subthalamic nucleus
+C1281063	entire genu of corpus callosum
+C1281065	entire diencephalon
+C1281066	entire papillary muscle
+C1281067	entire subthalamus
+C1281071	entire central sulcus
+C1281072	entire precentral sulcus
+C1281074	entire superior temporal sulcus
+C1281084	entire flocculonodular lobe
+C1281091	entire capsule of kidney
+C1281094	entire olfactory bulb
+C1281095	entire amygdaloid nucleus
+C1281096	entire claustrum
+C1281097	entire spinal cord white matter
+C1281113	entire intercostal nerve
+C1281120	entire helix of ear
+C1281123	entire antihelix
+C1281125	entire seminiferous tubule
+C1281128	entire rete testis
+C1281139	entire pampiniform plexus
+C1281141	entire ejaculatory duct
+C1281143	entire lobe of prostate
+C1281154	entire suspensory ligament of penis
+C1281159	entire endolymphatic sac
+C1281160	entire utricle
+C1281161	entire saccule
+C1281170	entire corpus uteri
+C1281171	entire myometrium
+C1281172	entire mesosalpinx
+C1281173	entire mesovarium
+C1281177	entire penile vein
+C1281178	entire superior laryngeal nerve
+C1281179	entire quadrate lobe of liver
+C1281182	entire gastrointestinal tract
+C1281183	entire lower gastrointestinal tract
+C1281187	entire wall of stomach
+C1281194	entire right fallopian tube
+C1281196	entire right ovary
+C1281197	entire left ovary
+C1281199	entire mental nerve
+C1281211	entire nucleus ambiguus
+C1281212	entire parapharyngeal space
+C1281213	entire retropharyngeal area
+C1281214	entire ophthalmic nerve
+C1281215	entire maxillary nerve
+C1281216	entire mandibular nerve
+C1281221	entire supraorbital nerve
+C1281227	entire buccal nerve
+C1281228	entire masseteric nerve
+C1281229	entire deep temporal nerve
+C1281230	entire auriculotemporal nerve
+C1281231	entire lingual nerve
+C1281233	entire cochlear nerve
+C1281237	entire phrenic nerve
+C1281239	entire infraorbital nerve
+C1281240	entire sphenopalatine ganglion
+C1281241	entire amniotic cavity
+C1281242	entire falx cerebelli
+C1281245	entire right tonsil (palatine)
+C1281246	entire left tonsil (palatine)
+C1281247	entire skin of thumb
+C1281249	entire parametrium
+C1281253	entire lumbar splanchnic nerve
+C1281262	entire rectovaginal septum
+C1281263	entire superior orbital fissure
+C1281270	entire meibomian gland
+C1281272	entire aqueous humor
+C1281279	entire lacrimal duct
+C1281285	entire nasolacrimal duct
+C1281286	entire umbilical cord
+C1281287	entire uveal tract
+C1281294	entire trabecular meshwork
+C1281297	entire hair follicle
+C1281298	entire endocervical gland
+C1281299	entire ciliary muscle
+C1281304	entire fetal pupillary membrane
+C1281305	entire lamina choroidocapillaris
+C1281306	entire retinal vein
+C1281307	entire central retinal artery
+C1281308	entire optic radiation
+C1281316	entire uterine vein
+C1281317	entire popliteal vein
+C1281318	entire anterior tibial vein
+C1281322	entire carotid sinus
+C1281323	entire intercostobrachial nerve
+C1281326	entire lumbar lymph node
+C1281327	entire artery of abdomen
+C1281328	entire vein of thorax
+C1281329	entire abdominal vein
+C1281330	entire pelvic vein
+C1281331	entire epithalamus
+C1281332	entire hypopharynx
+C1281333	entire intestinal lymph node
+C1281334	entire subglottis
+C1281335	entire putamen
+C1281337	entire long head of biceps brachii muscle
+C1281339	entire left adrenal gland
+C1281340	entire skin of upper lip
+C1281343	entire presacral region
+C1281344	entire auditory system
+C1281346	entire epidural space
+C1281347	entire intervertebral foramen
+C1281348	entire pelvic cavity
+C1281349	entire subdeltoid bursa
+C1281350	entire infrapatellar fat pad
+C1281353	entire lacteal
+C1281354	entire ischial bursa
+C1281361	entire cribriform plate
+C1281363	entire tibial tuberosity
+C1281366	entire joint of pelvis
+C1281370	entire right common iliac artery
+C1281371	entire left common iliac artery
+C1281374	entire digit of hand
+C1281392	entire paraumbilical vein
+C1281400	entire skin of lower back
+C1281410	entire coccygeal nerve
+C1281419	entire retropubic space
+C1281432	entire roof of acetabulum
+C1281437	entire sciatic artery
+C1281449	entire sacral promontory
+C1281483	entire transplanted embryo
+C1281484	entire embryo stage
+C1281512	entire abortus
+C1281530	entire male genital organ
+C1281531	entire lunula
+C1281532	entire cuticle of nail
+C1281533	entire nail root
+C1281535	entire hyponychium
+C1281559	entire auditory pathway
+C1281560	entire ligament of hand
+C1281562	entire tooth
+C1281566	entire right femoral artery
+C1281568	entire lumbar plexus
+C1281571	entire thoracic aorta
+C1281572	entire ureter
+C1281574	entire urethra
+C1281575	entire scapula
+C1281576	entire shaft of radius
+C1281577	entire rib
+C1281578	entire shaft of tibia
+C1281580	entire fibula
+C1281581	entire left femoral artery
+C1281584	entire finger
+C1281585	entire hip region
+C1281586	entire thigh
+C1281588	entire great toe
+C1281589	entire toe
+C1281597	entire peroneal vein
+C1281612	entire adductor tendon
+C1281614	entire fabella
+C1281625	entire perineal nerve
+C1281630	entire right middle ear
+C1281636	entire thyroid vein
+C1281644	entire upper lobe of lung
+C1281645	entire lower lobe of lung
+C1281655	entire deep cervical vein
+C1281658	entire mesenteric vein
+C1281659	entire esophageal vein
+C1281661	entire left pulmonary vein
+C1281662	entire skin of hand and foot
+C1281666	entire serous cavity
+C1281670	entire gonad
+C1281673	entire gastric artery
+C1281674	entire ductus venosus
+C1281675	entire skin of upper back
+C1281677	entire sacrospinous ligament
+C1281690	entire labyrinth
+C1281691	entire joint cavity
+C1281692	entire articular cartilage
+C1281693	entire muscle of upper back
+C1281715	entire lumbar spinal canal
+C1281760	entire optic cup
+C1281761	entire hyaloid artery
+C1281767	entire genital tubercle
+C1281769	entire mesonephric duct
+C1281775	entire septum transversum
+C1281776	entire notochord
+C1281778	entire thyroglossal duct
+C1281779	entire dorsal mesentery
+C1281780	entire allantois
+C1281781	entire cloacal membrane
+C1281785	entire omphalomesenteric vein
+C1281786	entire blastocyst
+C1281788	entire cytotrophoblast
+C1281796	entire atrioventricular canal cushion
+C1281797	entire ostium primum
+C1281798	entire ostium secundum
+C1281803	entire premaxillary bone
+C1281825	entire lumbosacral vertebrae
+C1281840	entire ganglion impar
+C1281843	entire sacroiliac region
+C1281854	entire sphenopalatine artery
+C1281864	entire apex of patella
+C1281868	entire hilar lymph node (body structure)
+C1281954	entire right frontal lobe
+C1281955	entire left frontal lobe
+C1281957	entire frontal pole
+C1281959	entire right parietal lobe
+C1281960	entire left parietal lobe
+C1281962	entire right occipital lobe
+C1281963	entire left occipital lobe
+C1281968	entire temporal pole
+C1281970	entire right temporal lobe
+C1281971	entire left temporal lobe
+C1281972	entire occipital pole
+C1281984	entire cerebellar tonsil
+C1282004	entire vein of head
+C1282006	entire diagonal branch of anterior descending branch of left coronary artery (body structure)
+C1282012	entire subarachnoid cistern
+C1282130	entire region of kidney (body structure)
+C1282377	entire apex of lung
+C1282378	entire base of lung
+C1282379	entire fasciculus cuneatus
+C1282429	entire iliac lymph node (body structure)
+C1282445	entire vein of hand
+C1282581	entire conus medullaris
+C1282604	entire intervertebral space
+C1282608	entire muscle of lower back
+C1282622	entire hair cortex
+C1282625	entire hair papilla
+C1282632	entire vellus hair
+C1282633	entire terminal hair
+C1282636	entire dermal papilla
+C1282643	entire capillary of skin
+C1282646	entire skin fat
+C1282648	entire elastic fibers of skin
+C1282653	entire respiratory epithelium
+C1282656	entire appendicular skeleton
+C1282662	entire esophageal lumen
+C1282663	entire esophageal gland
+C1282680	entire virchow-robin space
+C1282685	entire femoral plexus
+C1282702	entire spinal sensory nerve
+C1282712	entire superficial lymph node
+C1282725	entire transplanted bone marrow
+C1282726	entire red bone marrow
+C1282727	entire yellow bone marrow
+C1282749	entire flexor tendon
+C1282750	entire extensor tendon
+C1282751	entire common tendon
+C1282752	entire tendon insertion
+C1282759	entire tunnel of tendon
+C1282761	entire aponeurosis
+C1282773	entire long bone
+C1282774	entire short bone
+C1282775	entire flat bone
+C1282777	entire epiphyseal line
+C1282778	entire epicondyle
+C1282782	entire capsular ligament
+C1282783	entire collateral ligament
+C1282786	entire meniscus of joint
+C1282789	entire squamous suture
+C1282792	entire spheroidal joint
+C1282793	entire pivot joint
+C1282797	entire ginglymus
+C1282798	entire condylar joint
+C1282819	entire valve of vein
+C1282820	entire transplanted artery
+C1282822	entire small artery
+C1282824	entire large artery
+C1282826	entire arteriole
+C1282841	entire small blood vessel (organ) (body structure)
+C1282845	entire great blood vessel (organ)
+C1282848	entire atrioventricular canal
+C1282849	entire sinus venosus of fetus
+C1282851	entire superficial vein
+C1282852	entire deep vein
+C1282853	entire venous sinus
+C1282854	entire venule
+C1282858	entire perivascular space
+C1282864	entire lumen of body system
+C1282866	entire blastomere
+C1282867	entire bilaminar embryo
+C1282869	entire fetal tunica vasculosa lentis (body structure)
+C1282871	entire primary vitreous
+C1282882	entire myotome
+C1282889	entire embryonic disc
+C1282902	entire body compartment
+C1283367	entire glomus
+C1283673	entire tendon and tendon sheath
+C1283786	entire blood vessel
+C1283788	entire spinal nerve
+C1283789	entire phalanx of hand
+C1283790	entire carotid nerve
+C1283793	entire tubercle of rib
+C1283794	entire genitourinary tract
+C1283795	entire genital system
+C1283796	entire male genitourinary tract
+C1283798	entire respiratory tract
+C1283799	entire ovarian follicle
+C1283832	entire cerebral vessels
+C1283835	entire axillary fossa
+C1283836	entire wrist region
+C1283837	entire carpus
+C1283839	entire ankle region
+C1283841	entire abdominal cavity
+C1283846	entire pelvic floor
+C1283860	entire modiolus
+C1283871	entire proximal phalanx of hand
+C1283872	entire pericardial sac
+C1283874	entire renal pyramid
+C1283875	entire renal corpuscle
+C1283877	entire glomerular capsule
+C1283878	entire renal tubule
+C1283880	entire henle's loop
+C1283882	entire nephron
+C1283883	entire lymphoid organ
+C1283884	entire endocrine pancreas
+C1283885	entire male genital system
+C1283887	entire limbic system
+C1283888	entire supratentorial brain
+C1283889	entire filum terminale
+C1283890	entire ala nasi
+C1283891	entire vomeronasal organ
+C1283892	entire nasal passage (body structure)
+C1283893	entire body cavity
+C1283897	entire abdominal wall muscle
+C1283899	entire biliary system
+C1283900	entire head and neck
+C1283902	entire submandibular area
+C1283903	entire intestinal tract
+C1283904	entire hair shaft
+C1283905	entire hair bulb
+C1283906	entire inner root sheath
+C1283907	entire fauces
+C1283909	entire pulmonary alveolus
+C1283910	entire pulmonary acinus
+C1283911	entire neuromyoarterial glomus
+C1283912	entire digit
+C1283913	entire locomotor system
+C1283917	entire uterine adnexa
+C1283921	entire endometrial gland
+C1283922	entire skeleton
+C1283923	entire respiratory airway
+C1283924	entire nose, accessory sinus and nasopharynx, cs
+C1283925	entire larynx, trachea, bronchi and lungs, cs
+C1283926	entire tracheobronchial tree
+C1283928	entire female genital system
+C1284077	entire hippocampus
+C1284085	entire corpora quadrigemina
+C1284087	entire cerebellar cortex
+C1284088	entire neocerebellum
+C1284096	entire testicle
+C1284098	entire tonsils and adenoids
+C1284110	entire cervical spinal column
+C1284113	entire adnexa oculi
+C1284115	entire cerebral white matter
+C1284424	entire duodenal cap
+C1284948	entire processus vaginalis peritonei (body structure)
+C1285505	entire of artery of head
+C1288305	entire eyelash
+C1288409	entire right testis
+C1288410	entire left testis
+C1288430	entire pelvic diaphragm
+C1288435	entire perineal body
+C1288438	entire pudendal canal
+C1288568	entire sternal angle
+C1288581	entire true rib
+C1288582	entire false rib
+C1288590	entire subclavius muscle
+C1288598	entire umbilical ring
+C1288602	entire wharton's jelly
+C1288608	entire supravesical fossa
+C1288635	entire femoral ring
+C1288639	entire right shoulder region
+C1288640	entire left shoulder region
+C1288684	entire soft tissues of shoulder
+C1288706	entire medial border of scapula
+C1288726	entire bone of upper arm
+C1288734	entire ulnar tunnel
+C1288735	entire radial tuberosity
+C1288742	entire left forearm
+C1288752	entire left wrist
+C1288871	entire skin of all fingers
+C1288875	entire tendon sheath of finger
+C1288876	entire tendon of finger
+C1288948	entire right hand
+C1288949	entire left hand
+C1288951	entire skin of hand, including finger
+C1289001	entire antebrachial fascia
+C1289017	entire suprasellar region
+C1289022	entire right lower eyelid
+C1289023	entire right maxillary sinus
+C1289033	entire right ear
+C1289034	entire right lateral ventricle
+C1289043	entire left upper eyelid
+C1289045	entire left maxillary sinus
+C1289055	entire left ear
+C1289056	entire left lateral ventricle
+C1289138	entire galea aponeurotica
+C1289170	entire rima oris
+C1289171	entire vestibule of mouth
+C1289178	entire gland of mucous membrane of tongue
+C1289183	entire lingual papillae
+C1289196	entire parotid papilla
+C1289218	entire soft tissues of face
+C1289233	entire tarsal muscle
+C1289240	entire lacus lacrimalis
+C1289248	entire ciliary artery
+C1289264	entire cornea of both eyes
+C1289266	entire transplanted cornea
+C1289267	entire corneal epithelium
+C1289270	entire conjunctiva of both eyes
+C1289274	entire iris of both eyes
+C1289279	entire pupil of both eyes
+C1289286	entire retina of both eyes
+C1289299	entire orbital septum
+C1289316	entire mandibular canal
+C1289321	entire nasal gland
+C1289327	entire nasal fossae
+C1289329	entire agger nasi
+C1289377	entire mesotympanum
+C1289384	entire otoconia
+C1289388	entire spiral ganglion
+C1289393	entire tectorial membrane
+C1289433	entire crista galli
+C1289445	entire locus ceruleus
+C1289463	entire central tegmental tract
+C1289466	entire cerebellopontine angle
+C1289468	entire area postrema
+C1289506	entire fasciculus gracilis
+C1289511	entire cingulum
+C1289526	entire entorhinal cortex
+C1289536	entire nucleus basalis of meynert
+C1289542	entire hippocampal commissure
+C1289543	entire crus of fornix
+C1289546	entire anterior commissure
+C1289557	entire supraoptic nucleus
+C1289558	entire paraventricular nucleus
+C1289559	entire suprachiasmatic nucleus
+C1289610	entire massa intermedia
+C1289613	entire zona incerta
+C1289618	entire cavum septi pellucidi
+C1289620	entire centrum semiovale
+C1289623	entire forceps major
+C1289643	entire cortex of insula
+C1289646	entire pallium
+C1289648	entire fissure of sylvius
+C1289654	entire periaqueductal gray matter
+C1289692	entire calcar avis
+C1289704	entire lateral spinothalamic tract
+C1289707	entire vestibulospinal tract
+C1289716	entire carotid siphon
+C1304900	entire acromial end of clavicle
+C1304902	entire distal end of radius
+C1304903	entire hook of hamate bone
+C1304905	entire shaft of metacarpal bone
+C1304906	entire head of metacarpal bone
+C1304907	entire base of first metacarpal bone
+C1304926	entire proximal epiphysis of femur
+C1304940	entire splenius capitis muscle
+C1304942	entire risorius muscle
+C1304945	entire depressor labii inferioris muscle
+C1304946	entire buccinator muscle
+C1304947	entire orbicularis oculi
+C1304949	entire corrugator supercilii muscle
+C1304954	entire mentalis muscle
+C1304957	entire orbicularis oris
+C1304959	entire sternocleidomastoid muscle
+C1304960	entire digastric
+C1304961	entire stylohyoid muscle
+C1304963	entire geniohyoid muscle
+C1304964	entire sternohyoid muscle
+C1304965	entire omohyoid muscle
+C1304967	entire thyrohyoid muscle
+C1304968	entire longus colli
+C1304972	entire platysma muscle
+C1304977	entire genioglossus muscle
+C1304978	entire styloglossus muscle
+C1304982	entire procerus muscle
+C1304983	entire nasalis
+C1304984	entire teres minor muscle
+C1304985	entire teres major muscle
+C1304986	entire deltoid muscle
+C1304988	entire brachialis muscle
+C1304989	entire coracobrachialis muscle
+C1304990	entire anconeus muscle
+C1304992	entire palmaris longus muscle
+C1304993	entire flexor carpi ulnaris
+C1304994	entire flexor digitorum superficialis muscle
+C1304995	entire pronator quadratus muscle
+C1304996	entire brachioradialis muscle
+C1304997	entire extensor carpi radialis longus muscle
+C1304998	entire extensor carpi radialis brevis muscle
+C1304999	entire extensor digitorum muscle of hand
+C1305000	entire extensor carpi ulnaris
+C1305001	entire supinator muscle
+C1305002	entire palmaris brevis muscle
+C1305003	entire abductor pollicis longus muscle
+C1305004	entire abductor pollicis brevis muscle
+C1305006	entire extensor pollicis brevis muscle
+C1305007	entire extensor indicis muscle
+C1305009	entire adductor pollicis
+C1305013	entire longissimus thoracis muscle
+C1305016	entire spinalis thoracis muscle
+C1305019	entire semispinalis muscle
+C1305022	entire semispinalis capitis muscle
+C1305025	entire pectoralis minor muscle
+C1305026	entire serratus anterior muscle
+C1305027	entire trapezius muscle
+C1305028	entire latissimus dorsi muscle
+C1305031	entire levator scapulae muscle
+C1305032	entire pyramidalis muscle
+C1305033	entire cremaster muscle
+C1305034	entire transversus abdominis muscle
+C1305035	entire quadratus lumborum muscle
+C1305037	entire levator ani muscle
+C1305038	entire puborectalis muscle
+C1305040	entire external anal sphincter
+C1305041	entire bulbospongiosus muscle
+C1305042	entire ischiocavernosus muscle
+C1305043	entire iliopsoas muscle
+C1305044	entire iliacus muscle
+C1305045	entire psoas major muscle
+C1305047	entire obturator internus
+C1305048	entire obturator externus
+C1305049	entire gluteus maximus muscle
+C1305050	entire gluteus medius muscle
+C1305051	entire gluteus minimus muscle
+C1305052	entire piriformis muscle
+C1305054	entire quadratus femoris muscle
+C1305055	entire sartorius muscle
+C1305056	entire adductor brevis muscle
+C1305057	entire adductor magnus muscle
+C1305058	entire gracilis muscle
+C1305059	entire quadriceps femoris muscle
+C1305060	entire pectineus muscle
+C1305061	entire vastus intermedius muscle
+C1305062	entire biceps femoris muscle
+C1305063	entire semimembranosus muscle
+C1305064	entire semitendinosus muscle
+C1305065	entire tibialis anterior
+C1305067	entire extensor digitorum longus muscle of foot
+C1305068	entire extensor digitorum brevis muscle of foot
+C1305069	entire extensor hallucis longus muscle
+C1305071	entire peroneus brevis muscle
+C1305072	entire peroneus tertius muscle
+C1305074	entire flexor hallucis brevis muscle
+C1305076	entire abductor hallucis muscle
+C1305078	entire sagittal suture of skull
+C1305079	entire coronal suture of skull
+C1305081	entire anterior fontanel of skull
+C1305082	entire posterior fontanel of skull
+C1305095	entire costochondral junction
+C1305096	entire labrum of acetabulum
+C1305097	entire talonavicular joint (body structure)
+C1305099	entire semimembranosus muscle bursa
+C1305101	entire superior oblique muscle tendon
+C1305103	entire extensor carpi ulnaris muscle tendon
+C1305118	entire plantar calcaneonavicular ligament
+C1305119	entire fascia of abdomen
+C1305139	entire base of heart
+C1305142	entire left margin of heart
+C1305144	entire auricular appendage
+C1305153	entire right branch of atrioventricular bundle
+C1305159	entire anulus fibrosus of pulmonary artery
+C1305163	entire anulus fibrosus of mitral orifice
+C1305164	entire anterior leaflet of mitral valve
+C1305165	entire posterior leaflet of mitral valve
+C1305171	entire obtuse marginal branch of circumflex branch of left coronary artery
+C1305176	entire great anterior radicular artery of adamkiewicz
+C1305194	entire ureteropelvic junction
+C1305222	entire blood vessel of retina
+C1305225	entire ora serrata of retina
+C1305242	entire l2 vertebra
+C1305243	entire l3 vertebra
+C1305244	entire first sacral vertebra
+C1305253	entire pars flaccida of tympanic membrane
+C1305255	entire mastoid cell
+C1305276	entire middle finger
+C1305286	entire autonomic nerve
+C1305287	entire choroid
+C1305299	entire ethmoidal artery (body structure)
+C1305305	entire tooth root
+C1305310	entire ureteral orifice
+C1305312	entire lateral meniscus
+C1305314	entire thoracic disc (body structure)
+C1305316	entire medial meniscus
+C1305324	entire retinal pigment epithelium
+C1305327	entire gravid uterus
+C1305328	entire triceps surae muscle
+C1305329	entire paraganglia
+C1305344	entire gastrocnemius
+C1305356	entire soleus
+C1305366	entire artery of extremity (body structure)
+C1305367	entire submaxillary duct
+C1305370	entire embryo
+C1305376	entire epiphysis (body structure)
+C1305377	entire thyroarytenoid muscle
+C1305378	entire achilles tendon
+C1305379	entire amnion
+C1305380	entire atlantooccipital joint
+C1305381	entire autonomic nervous system
+C1305382	entire bartholin's gland
+C1305383	entire broad ligament
+C1305384	entire carotid artery
+C1305386	entire external carotid artery
+C1305387	entire internal carotid artery
+C1305392	entire common bile duct
+C1305393	entire posterior fossa of cranial cavity
+C1305394	entire suture joint of skull
+C1305402	entire sulcus terminalis cordis
+C1305412	entire inferior wall of orbit
+C1305413	entire anterior fossa of cranial cavity
+C1305414	entire fossa of cranial cavity
+C1305416	entire spinous process of vertebra (body structure)
+C1305417	entire elbow region
+C1305418	entire calf of leg (body structure)
+C1305421	entire skin of palmar area of hand (body structure)
+C1305422	entire skin of popliteal fossa
+C1305431	entire lumbar disc (body structure)
+C1305433	entire sinus venosus of sclera
+C1305440	entire spinous process of lumbar vertebra
+C1305449	entire transverse process of lumbar vertebra
+C1305452	entire body of lumbar vertebra
+C1305494	entire spinous process of seventh cervical vertebra (body structure)
+C1305533	entire cervical disc (body structure)
+C1305534	entire transverse process of vertebra (body structure)
+C1305536	entire bone of extremity (body structure)
+C1305577	entire transverse process of seventh cervical vertebra (body structure)
+C1305578	entire transverse process of first lumbar vertebra (body structure)
+C1305582	entire middle fossa of cranial cavity
+C1305583	entire transverse process of fifth lumbar vertebra (body structure)
+C1305593	entire body of third thoracic vertebra (body structure)
+C1305596	entire body of sixth thoracic vertebra (body structure)
+C1305604	entire body of fourth cervical vertebra (body structure)
+C1305610	entire body of third lumbar vertebra (body structure)
+C1305611	entire body of fourth lumbar vertebra (body structure)
+C1305617	entire l5 vertebra
+C1305618	entire pupil
+C1305622	entire central vein of the retina
+C1305624	entire descending aorta
+C1305625	entire anal gland
+C1305626	entire inferior ramus of pubis
+C1305631	entire anterior tibial muscle tendon
+C1305632	entire extensor hallucis longus muscle tendon
+C1305633	entire posterior tibial muscle tendon
+C1305635	entire skin of dorsal area of hand
+C1305636	entire hair of pubis
+C1305659	entire intermediate cuneiform
+C1305705	entire incudostapedial articulation
+C1305708	entire right branch of hepatic artery
+C1305712	entire right main bronchus
+C1305713	entire left main bronchus
+C1305714	entire anterior chest wall
+C1305719	entire innominate bone
+C1305721	entire labium minus (body structure)
+C1305726	entire fontanel of skull
+C1305727	entire circumflex branch of left coronary artery
+C1305729	entire skeletal muscle of gluteal region
+C1305730	entire descemet's membrane
+C1305731	entire chordae tendineae cordis
+C1305732	entire external auditory canal opening
+C1305733	entire endocrine gland
+C1305734	entire facial nerve
+C1305735	entire fascia lata
+C1305743	entire erector spinae muscle
+C1305744	entire fetal ossification center
+C1305746	entire mucous membrane of nose
+C1305751	entire reticular formation
+C1305752	entire glossopharyngeal nerve
+C1305753	entire hypoglossal nerve
+C1305754	entire immune system
+C1305756	entire cortex of kidney
+C1305757	entire medulla of kidney
+C1305759	entire mammillary body
+C1305760	entire manubrium sterni
+C1305761	entire masseter
+C1305762	entire wisdom tooth
+C1305766	entire outflow tract of left ventricle (body structure)
+C1305767	entire oculomotor nerve
+C1305770	entire parasympathetic nervous system
+C1305772	entire bony pelvis
+C1305773	entire symphysis pubis
+C1305775	entire portal vein
+C1305777	entire accessory nerve
+C1305779	entire duodenal papilla
+C1305794	entire right margin of heart
+C1305796	entire lamina of vertebra
+C1305798	entire ectocervix (body structure)
+C1305799	entire piriform recess
+C0699792	relationship by association
+C1305801	entire atlas vertebra
+C1305896	entire minor salivary gland
+C1305897	entire lunate bone
+C1305901	entire stapedius muscle
+C1305903	entire sublingual gland
+C1305905	entire tensor tympani muscle
+C1305907	entire deciduous tooth
+C1305908	entire trigeminal nerve
+C1305909	entire truncus arteriosus of fetus
+C1305910	entire vagus nerve
+C1305911	entire vestibular nucleus
+C1305912	entire abdominal viscera
+C1305913	entire visual pathway
+C1305914	entire yolk stalk
+C1305915	entire xiphoid process of sternum
+C1305917	entire common carotid artery
+C0450442	agent (attribute)
+C1305918	entire rectus abdominis muscle
+C1305920	entire patellar ligament
+C1305921	entire peripheral nervous system
+C1305922	entire bowman's layer (body structure)
+C1305933	entire vitreous humor
+C1305961	entire heart valve
+C1306477	entire capitate bone
+C1306478	entire trapezial bone
+C1306479	entire trapezoid bone
+C1306480	entire navicular
+C1306481	entire lateral cuneiform
+C1306482	entire medial cuneiform
+C1306500	entire anal crypt
+C1306518	entire articular capsule (body structure)
+C1306528	entire scaphoid
+C1306664	entire urethral gland
+C1306665	entire brainstem
+C1306748	entire thymus
+C1306795	entire surface region of wrist (body structure)
+C1306816	entire fundus uteri
+C1306819	entire prepuce
+C0439096	beta greek letter
+C1318149	entire alveolar ridge
+C1140091	ai/rheum
+C0470210	5
+C1318419	entire human body (body structure)
+C1318425	entire urethral meatus (body structure)
+C1321499	entire prostatic gland
+C1321504	entire pisiform bone of hand (body structure)
+C1321506	entire anterior descending branch of left coronary artery
+C1321508	entire axial skeleton
+C1321509	entire axis vertebra
+C1321510	entire basal nuclei
+C0222045	integumentary scale
+C1321512	entire visual system
+C1321513	entire vestibule
+C1321524	entire carpometacarpal joint (body structure)
+C1321525	entire cisterna ambiens
+C1321528	entire flexor hallucis longus muscle tendon
+C1321530	entire internal anal sphincter muscle
+C1321532	entire midcarpal joint
+C1321533	entire palpebral conjunctiva
+C1321534	entire posterior wall of urinary bladder
+C1321538	entire trigone of bladder
+C1321539	entire vastus lateralis muscle
+C1321540	entire vastus medialis muscle
+C1321549	entire dome of urinary bladder (body structure)
+C0677042	pathology processes
+C0439111	upper case aitch
+C0439134	lower case aitch
+C0439123	upper case why
+C0439147	lower case why
+C0442022	lumbar (qualifier value)
+C0678227	causing (attribute)
+C0439840	reflex motion descriptor
+C1318215	3
+C0175673	bale out
+C0374711	repair - action
+C0205450	four (qualifier value)
+C0699910	study of epidemiology
+C0205054	hepatic
+C0439129	lower case dee
+C0439107	upper case dee
+C0521346	respiratory
+C0884854	physical devices
+C0677510	roman numeral IV
+C0401156	vomiting nos (disorder)
+C0470215	10
+C0439145	lower case vee
+C0439120	upper case vee
+C0205394	other
+C0439137	lower case kay
+C0439112	upper case kay
+C0439139	lower case oh
+C0439114	upper case oh
+C0439146	lower case double-you
+C0439121	upper case double-you
+C0205448	two (qualifier value)
+C0470216	12
+C0439109	upper case eff
+C0439132	lower case eff
