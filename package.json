@@ -1,6 +1,6 @@
 {
   "name": "chvocab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mapping texts to UMLS via the Consumer Health Vocabulary (CHV)",
   "main": "lib/load.js",
   "directories": {
