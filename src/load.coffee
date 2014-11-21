@@ -18,18 +18,23 @@ column_names = ["CUI","Term","CHV_preferred_name","UMLS_preferred_name","Explana
 getPositions = (substring, string) ->
   a = []
   i = -1
+  string = string.toLowerCase()
+  substring = substring.toLowerCase()
   while((i=string.indexOf(substring, i+1)) >= 0)
     a.push(i)
   return a
 
 namespace = {}
 
-namespace.fChvData = csv.parseAsync(chvData, {
-  delimiter: "\t",
-  columns: column_names})
+namespace.getCHV = (callback) ->
+  @fChvData = csv.parseAsync(chvData, {
+    delimiter: "\t",
+    columns: column_names})
+  return @fChvData.nodeify(callback)
 
 namespace.analyze = (string, callback) ->
   candidateSet = new Set
+  @getCHV()
   @fChvData.map( (el) =>
     term = el.Term
     pattern = new RegExp "(?:^|\\s|$)(" + escapeStringRegexp(term) + ")(?:^|\\s|$)", "gi"
@@ -54,11 +59,21 @@ namespace.analyze = (string, callback) ->
         maxScore = _.max ( _.pluck candidates, "Combo_Score_NoTopWords" )
 
         selected = candidates.filter( (e) => e.Combo_Score_NoTopWords == maxScore)[0]
-        for num in _.flatten selected.indices
+        for num in _.flatten selected?.indices
           used.push(num)
-        arr.push(selected)
+
+        o = {}
+        o.CUI = selected?.CUI
+        o.Term = selected?.Term
+        o.CHV_preferred_name = selected?.CHV_preferred_name
+        o.UMLS_preferred_name = selected?.UMLS_preferred_name
+        o.Explanation = selected?.Explanation
+        o.Count = selected?.count
+        o.Positions = selected?.positions
+        arr.push(o)
     )
-    return BPromise.all(arr).nodeify(callback)
+    return BPromise.all(arr).then( (fArr) => fArr.sort (a, b) =>
+      a.Positions[0] - b.Positions[0] ).nodeify(callback)
   )
 
 module.exports = namespace

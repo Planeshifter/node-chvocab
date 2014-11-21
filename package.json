@@ -38,6 +38,7 @@
     "csv-parse": "0.0.6",
     "es6-shim": "^0.20.4",
     "escape-string-regexp": "^1.0.2",
+    "mocha": "^2.0.1",
     "underscore": "~1.7.0"
   }
 }

@@ -5,4 +5,4 @@ abstract = "Chronic kidney disease (CKD), also known as chronic renal disease (C
 
 chvocab.analyze(abstract, function(err, data){
   console.log(data)
-})
+});
