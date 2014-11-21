@@ -2,7 +2,7 @@
   "name": "chvocab",
   "version": "0.1.0",
   "description": "Mapping texts to UMLS via the Consumer Health Vocabulary (CHV)",
-  "main": "lib/main.js",
+  "main": "lib/load.js",
   "directories": {
     "test": "test"
   },
@@ -12,9 +12,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Planeshifter/node-chvocab.git"
-  },
-  "engines": {
-    "node": "0.11.x"
   },
   "keywords": [
     "UMLS",
