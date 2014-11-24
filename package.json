@@ -9,6 +9,9 @@
   "scripts": {
     "test": "mocha test"
   },
+  "bin": {
+    "chvocab": "lib/chvExtract.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Planeshifter/node-chvocab.git"
@@ -33,10 +36,12 @@
   },
   "dependencies": {
     "bluebird": "~2.3.11",
+    "commander": "^2.5.0",
     "csv": "~0.4.1",
     "csv-parse": "0.0.6",
     "es6-shim": "^0.20.4",
     "escape-string-regexp": "^1.0.2",
+    "mime": "^1.2.11",
     "mocha": "^2.0.1",
     "underscore": "~1.7.0"
   }
